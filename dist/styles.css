@@ -240,3 +240,6 @@ button,.platform-link,.options-toggle{transition:background-color .15s,border-co
 .read-more:hover{background:transparent;border-color:transparent;color:var(--ink);text-decoration:underline;text-underline-offset:3px}
 
 .episode-description{margin:.55rem 0 .8rem;font-size:.9rem;color:var(--muted,#555);max-width:65ch}.episode-description summary{cursor:pointer;width:fit-content}.episode-description p{line-height:1.65;margin:.5rem 0}.filters>div[hidden]{display:none}
+
+.filters{grid-template-columns:repeat(2,minmax(0,1fr))}
+@media(max-width:700px){.filters{grid-template-columns:1fr}}

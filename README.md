@@ -10,7 +10,7 @@ Do not attach this to the existing sermon Worker or change its routes. Preview d
 
 ## Features
 
-All 288 index entries at initial import (2019-02-04 through 2026-10-14), including supplementary unnumbered classes. Search titles, guests, speaker metadata, series, themes and explicit Scripture citations. There is no theme dropdown. Themes come from titles, episode notes and publisher tags; podcast transcripts have not been created. Filters include individual speakers, series, year and referenced Bible books. Desktop search describes the available options; mobile says Search. The persistent audio player supports seek, 15-second skip and pause. Episode notes expand in place. Episode and timestamp URLs work on the app's own hostname. Apple/Spotify episode links are shown only for verified matches; show-follow links are always available.
+All 288 index entries at initial import (2019-02-04 through 2026-10-14), including supplementary unnumbered classes. Search titles, guests, speaker metadata, series, themes and explicit Scripture citations. There is no theme dropdown. Themes use weighted, boundary-aware matches in titles, unique episode notes and publisher tags, with repeated boilerplate excluded; podcast transcripts have not been created. Filters include individual speakers and year. Series and Scripture remain searchable but have no dropdown filters. Desktop search describes the available options; mobile says Search. The persistent audio player supports seek, 15-second skip and pause. Episode notes expand in place. Episode and timestamp URLs work on the app's own hostname. Apple/Spotify episode links are shown only for verified matches; show-follow links are always available.
 
 Speakers are taken from audio metadata, never the Squarespace publishing-account author. Multiple speakers are split with limited explicit name normalization. Guest names in titles/notes are searchable even when not included in the audio's speaker metadata. Initial platform coverage: 100 Apple episode links and 12 Spotify links. All 288 entries have HTTPS audio URLs.
 
@@ -28,6 +28,8 @@ Run locally: `python refresh.py` with Python 3.10+ and Node.js 22+. No third-par
 
 ## Checks
 
-`node test_catalog.cjs`, `node test_worker.cjs`, `node --check dist/app.js`, and `node --check dist/interactions.js`.
+`node test_subjects.cjs`, `node test_catalog.cjs`, `node test_worker.cjs`, `node --check dist/app.js`, and `node --check dist/interactions.js`.
 
 Browser QA verified topic synonyms, combined filters, audio playback, 15-second skip, immediate pause, and a 390px phone iframe with Search placeholder and no horizontal overflow. The Worker download route restricts recordings to catalog IDs and approved Squarespace hosts, streams responses with byte-range support, and adds attachment headers.
+
+Subject indexing v2 covers all 288 episodes. The vocabulary includes mental health, OCD, hospice/end-of-life care, disability, biblical theology, church history, missions strategy, spiritual gifts and other specific subjects. Inspect theme-index-report.json for title/note/tag evidence. Tags are metadata-supported classifications, not transcript summaries.

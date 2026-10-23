@@ -26,7 +26,7 @@ jobs:
         run: |
           git config user.name 'Hinson podcast catalog updater'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add dist/episodes.json dist/episode-themes.json dist/podcast-links.json catalog-report.json
+          git add dist/episodes.json dist/episode-themes.json dist/podcast-links.json catalog-report.json theme-index-report.json
           if ! git diff --cached --quiet; then
             git commit -m 'Refresh Disciple Hinson podcast catalog'
             git push

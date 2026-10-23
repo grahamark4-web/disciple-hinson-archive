@@ -1,0 +1,7993 @@
+{
+  "episodes": 288,
+  "tagged": 288,
+  "episodesForReview": [],
+  "evidence": [
+    {
+      "id": "6acecaaaa084835195bcff87",
+      "title": "271 — On Gospel Infrastructure",
+      "themes": [
+        "gospel",
+        "missions strategy",
+        "cross-cultural ministry"
+      ],
+      "evidence": {
+        "gospel": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "missions strategy": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "cross-cultural ministry": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6abc792e32360c40d2c9a73b",
+      "title": "270 -- Part Time Theologians: The Trinity (Part 2)",
+      "themes": [
+        "Trinity",
+        "Holy Spirit",
+        "humility"
+      ],
+      "evidence": {
+        "Trinity": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "Holy Spirit": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "humility": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6aa9d80d66159707f52a818a",
+      "title": "269 - On Caring for Women in Missions",
+      "themes": [
+        "cross-cultural ministry",
+        "evangelism and missions",
+        "women in ministry",
+        "church",
+        "love",
+        "wisdom"
+      ],
+      "evidence": {
+        "cross-cultural ministry": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "evangelism and missions": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "women in ministry": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "love": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "wisdom": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6a975e1da6a8ea286cf9315a",
+      "title": "268 - Get To Know: 2026 Pastoral Interns",
+      "themes": [
+        "pastoral training",
+        "biography and testimony",
+        "hope"
+      ],
+      "evidence": {
+        "pastoral training": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "biography and testimony": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "hope": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6a8fb431aa9e19628fb1cacb",
+      "title": "267 - Get to Know: Yael",
+      "themes": [
+        "biography and testimony",
+        "discipleship",
+        "evangelism and missions"
+      ],
+      "evidence": {
+        "biography and testimony": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "evangelism and missions": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6a84d605d13984381a292558",
+      "title": "266 - Part Time Theologians: Making Sense of the Trinity (Part 1)",
+      "themes": [
+        "Trinity"
+      ],
+      "evidence": {
+        "Trinity": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6a7be0e5161a8e6bf359fef3",
+      "title": "265 - Get To Know: Trevor Gilbert",
+      "themes": [
+        "biography and testimony",
+        "Jesus Christ",
+        "church",
+        "leadership"
+      ],
+      "evidence": {
+        "biography and testimony": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "Jesus Christ": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "leadership": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6a726748fc425f54d541e286",
+      "title": "264 - On Elder Priorities (2026-2027)",
+      "themes": [
+        "leadership",
+        "church governance"
+      ],
+      "evidence": {
+        "leadership": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church governance": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6a5d8d4e359c865eb3dca06c",
+      "title": "263 - Ministry Update: The Matsuokas",
+      "themes": [
+        "missions strategy",
+        "cross-cultural ministry"
+      ],
+      "evidence": {
+        "missions strategy": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "cross-cultural ministry": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6a56e8594fdccc794aa763aa",
+      "title": "262 - Part Time Theologians: How Did We Get the New Testament?",
+      "themes": [
+        "Bible canon and transmission",
+        "Scripture",
+        "Bible translation"
+      ],
+      "evidence": {
+        "Bible canon and transmission": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "Scripture": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "Bible translation": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6a4ebabf4638f7458ac6d66e",
+      "title": "261 - On Hymnals",
+      "themes": [
+        "congregational singing and hymns",
+        "church",
+        "worship"
+      ],
+      "evidence": {
+        "congregational singing and hymns": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "worship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6a46f9436d1b3d40174f79be",
+      "title": "260 - Ministry Update: The Rileys (Pt. 2)",
+      "themes": [
+        "cross-cultural ministry",
+        "missions strategy",
+        "discipleship",
+        "church"
+      ],
+      "evidence": {
+        "cross-cultural ministry": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "missions strategy": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6a3b17a302d1284daa10596a",
+      "title": "259 - Ministry Update: The Rileys (Pt. 1)",
+      "themes": [
+        "cross-cultural ministry",
+        "missions strategy",
+        "discipleship",
+        "church"
+      ],
+      "evidence": {
+        "cross-cultural ministry": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "missions strategy": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6a32048907cf281b59f021f5",
+      "title": "258 - Part Time Theologians: How Did We Get the Old Testament?",
+      "themes": [
+        "Bible canon and transmission",
+        "Scripture",
+        "judgment",
+        "salvation"
+      ],
+      "evidence": {
+        "Bible canon and transmission": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "Scripture": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "judgment": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "salvation": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6a2a00d94c6de2669a735e77",
+      "title": "257 - Get To Know: Kay Lim",
+      "themes": [
+        "biography and testimony",
+        "church"
+      ],
+      "evidence": {
+        "biography and testimony": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6a1f74a11857f20f7e8e2c71",
+      "title": "256 - Ministry Update: Global Interns",
+      "themes": [
+        "missions strategy",
+        "cross-cultural ministry",
+        "biography and testimony",
+        "church"
+      ],
+      "evidence": {
+        "missions strategy": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "cross-cultural ministry": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6a179cb5417040035fe3cf4e",
+      "title": "255 - Part Time Theologians: Who Are You Guys?",
+      "themes": [
+        "church"
+      ],
+      "evidence": {
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "69f53dd3eb794033ce4abb83",
+      "title": "254 - Get to Know Peter Jung",
+      "themes": [
+        "biography and testimony",
+        "discipleship"
+      ],
+      "evidence": {
+        "biography and testimony": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "69c4586428931c62c142dede",
+      "title": "253 - The Life and Ministry of Adoniram Judson Part 4",
+      "themes": [
+        "church history",
+        "Jesus Christ",
+        "discipleship",
+        "perseverance"
+      ],
+      "evidence": {
+        "church history": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "Jesus Christ": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "perseverance": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "69c443b20db66c117e8fa4a1",
+      "title": "252 - The Life and Ministry of Adoniram Judson Part 3",
+      "themes": [
+        "church history",
+        "suffering",
+        "biography and testimony",
+        "discipleship",
+        "evangelism and missions",
+        "grief",
+        "wisdom"
+      ],
+      "evidence": {
+        "church history": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "suffering": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "evangelism and missions": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "grief": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "wisdom": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "69c42ba10e99e14afce4f67f",
+      "title": "251 - The Life and Ministry of Adoniram Judson Part 2",
+      "themes": [
+        "church history",
+        "perseverance",
+        "biography and testimony",
+        "discipleship",
+        "evangelism and missions",
+        "gospel",
+        "suffering"
+      ],
+      "evidence": {
+        "church history": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "perseverance": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "evangelism and missions": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "gospel": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "suffering": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "69bb1d4f26dc5068d5298a77",
+      "title": "250 - The Life and Ministry of Adoniram Judson Part 1",
+      "themes": [
+        "church history",
+        "perseverance",
+        "biography and testimony",
+        "discipleship",
+        "evangelism and missions",
+        "gospel",
+        "suffering"
+      ],
+      "evidence": {
+        "church history": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "perseverance": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "evangelism and missions": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "gospel": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "suffering": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "69b9c2ddd854a231d99ce4db",
+      "title": "249 - Austin Davis Farewell",
+      "themes": [
+        "biography and testimony",
+        "church transitions",
+        "church"
+      ],
+      "evidence": {
+        "biography and testimony": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "church transitions": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "69a0df202eccbc7f1ed78d42",
+      "title": "248 - Corporate Worship Week 4: Singing the Word",
+      "themes": [
+        "congregational singing and hymns",
+        "worship",
+        "Jesus Christ",
+        "church",
+        "discipleship",
+        "hope"
+      ],
+      "evidence": {
+        "congregational singing and hymns": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "worship": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "Jesus Christ": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "hope": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "69989f25b7629140fbfd52c0",
+      "title": "247-Corporate Worship Week 3: The Liturgy",
+      "themes": [
+        "worship",
+        "liturgy",
+        "discipleship"
+      ],
+      "evidence": {
+        "worship": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "liturgy": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "697bbd6e42eb684b55b615c5",
+      "title": "246 - Corporate Worship Week 2: Preaching the Word",
+      "themes": [
+        "preaching",
+        "worship",
+        "discipleship"
+      ],
+      "evidence": {
+        "preaching": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "worship": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "697bb9c9bc9540368f849255",
+      "title": "Corporate Worship Class Segment Introduction",
+      "themes": [
+        "worship"
+      ],
+      "evidence": {
+        "worship": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "697bbb07238a044bf2164651",
+      "title": "245 - Corporate Worship Week 1: The Biblical Foundation",
+      "themes": [
+        "worship",
+        "Scripture",
+        "church",
+        "discipleship"
+      ],
+      "evidence": {
+        "worship": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "Scripture": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "697bb78e4fa1ba5b5ab69bf3",
+      "title": "244 - Get to Know an Elder with Austin Davis",
+      "themes": [
+        "biography and testimony",
+        "leadership",
+        "discipleship"
+      ],
+      "evidence": {
+        "biography and testimony": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "leadership": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6972591ee27f4b333d56c51b",
+      "title": "243 - Statement of Faith Article 18: Of The World To Come",
+      "themes": [
+        "revelation and last things",
+        "Jesus Christ",
+        "confessions and statements of faith",
+        "discipleship",
+        "joy",
+        "judgment",
+        "return of Christ"
+      ],
+      "evidence": {
+        "revelation and last things": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "Jesus Christ": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "confessions and statements of faith": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "joy": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "judgment": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "return of Christ": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "696aba1f4c1e070179d292a0",
+      "title": "242 - Statement of Faith Article 17: Of the Righteous and the Wicked",
+      "themes": [
+        "eternal judgment",
+        "Jesus Christ",
+        "discipleship"
+      ],
+      "evidence": {
+        "eternal judgment": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "Jesus Christ": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "696001dad4076054f51f3c60",
+      "title": "241 - Statement of Faith Article 16: Of the Civil Government",
+      "themes": [
+        "Christian political engagement",
+        "politics",
+        "discipleship"
+      ],
+      "evidence": {
+        "Christian political engagement": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "politics": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "695472cb38e79127d3023fe2",
+      "title": "240 - Statement of Faith Article 15: Of The Lord’s Day",
+      "themes": [
+        "Sabbath and Sunday",
+        "church",
+        "discipleship"
+      ],
+      "evidence": {
+        "Sabbath and Sunday": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "694b3a4730ada5024f4b5c5f",
+      "title": "239 - Statement of Faith Article 14: Of Baptism and the Lord’s Supper",
+      "themes": [
+        "Lord's Supper",
+        "baptism",
+        "Jesus Christ",
+        "discipleship"
+      ],
+      "evidence": {
+        "Lord's Supper": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "baptism": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "Jesus Christ": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "69443de5e4151d24f7ffa48d",
+      "title": "238 - Statement of Faith Article 13: Of a Gospel Church",
+      "themes": [
+        "church",
+        "church membership",
+        "gospel",
+        "discipleship"
+      ],
+      "evidence": {
+        "church": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church membership": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "gospel": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "693b074411e09b734c0f780e",
+      "title": "237 - Statement of Faith Article 12: Of the Harmony of the Law and the Gospel",
+      "themes": [
+        "gospel",
+        "law and gospel",
+        "discipleship"
+      ],
+      "evidence": {
+        "gospel": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "law and gospel": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "693360880128d069de3b14c6",
+      "title": "236 - Statement of Faith Article 11: Of Perseverance of the Saints",
+      "themes": [
+        "perseverance",
+        "discipleship"
+      ],
+      "evidence": {
+        "perseverance": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "69262fb273f55734fa951894",
+      "title": "235 - Statement of Faith Article 10: Of Sanctification",
+      "themes": [
+        "sanctification",
+        "Jesus Christ",
+        "discipleship",
+        "grace",
+        "gratitude"
+      ],
+      "evidence": {
+        "sanctification": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "Jesus Christ": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "grace": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "gratitude": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "691f8518e06e4b0638e9563d",
+      "title": "234 - Statement of Faith Article 9: Of God's Purpose of Grace",
+      "themes": [
+        "grace",
+        "election and predestination",
+        "God's sovereignty and providence",
+        "conversion and assurance",
+        "discipleship",
+        "evangelism and missions",
+        "hope"
+      ],
+      "evidence": {
+        "grace": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "election and predestination": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "God's sovereignty and providence": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "conversion and assurance": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "evangelism and missions": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "hope": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "69179f012792e6644e0875e7",
+      "title": "233 - Get to Know the 2025 Pastoral Residents ",
+      "themes": [
+        "pastoral training",
+        "biography and testimony"
+      ],
+      "evidence": {
+        "pastoral training": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "biography and testimony": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "690e6f0e45e0916cb26a969f",
+      "title": "232 - Statement of Faith Article 8: Of Repentance and Faith",
+      "themes": [
+        "repentance",
+        "Jesus Christ",
+        "discipleship",
+        "gospel",
+        "sin and temptation"
+      ],
+      "evidence": {
+        "repentance": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "Jesus Christ": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "gospel": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "sin and temptation": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "69039a38895dd41caa2f09da",
+      "title": "231 - Statement of Faith Article 7: Of Grace in Regeneration",
+      "themes": [
+        "grace",
+        "regeneration",
+        "salvation",
+        "discipleship"
+      ],
+      "evidence": {
+        "grace": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "regeneration": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "salvation": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "68f95d06448ceb62e291e695",
+      "title": "230 - Statement of Faith Article 6: Of the Freeness of Salvation",
+      "themes": [
+        "salvation",
+        "discipleship",
+        "gospel"
+      ],
+      "evidence": {
+        "salvation": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "gospel": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "68f079655c21433aee6384ec",
+      "title": "229 - Statement of Faith Article 5: Of Justification",
+      "themes": [
+        "justification",
+        "Jesus Christ",
+        "discipleship",
+        "peace"
+      ],
+      "evidence": {
+        "justification": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "Jesus Christ": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "peace": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "68def30593cdec7fd2f80fe3",
+      "title": "228 - Statement of Faith Article 4: Of the Way of Salvation",
+      "themes": [
+        "salvation",
+        "Jesus Christ",
+        "discipleship",
+        "grace"
+      ],
+      "evidence": {
+        "salvation": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "Jesus Christ": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "grace": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "68d586b84c78176324ce31ea",
+      "title": "227 - Statement of Faith Article 3: Of Humanity",
+      "themes": [
+        "creation and humanity",
+        "church",
+        "confessions and statements of faith",
+        "discipleship",
+        "sin and temptation"
+      ],
+      "evidence": {
+        "creation and humanity": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "confessions and statements of faith": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "sin and temptation": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "68cc8bd9f2f2d44b0bf7c337",
+      "title": "226 - Statement of Faith Article 2: Of the True God",
+      "themes": [
+        "church",
+        "confessions and statements of faith",
+        "discipleship"
+      ],
+      "evidence": {
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "confessions and statements of faith": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "68c05637fcafaa45cd0826f7",
+      "title": "225 - Statement of Faith Article 1: Of the Scriptures",
+      "themes": [
+        "Scripture",
+        "confessions and statements of faith",
+        "church",
+        "discipleship"
+      ],
+      "evidence": {
+        "Scripture": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "confessions and statements of faith": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "68bb7f7c11371e1b587843a8",
+      "title": "224 - The New Covenant",
+      "themes": [
+        "covenant",
+        "hope"
+      ],
+      "evidence": {
+        "covenant": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "hope": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "68ba21f7e486b856e9f44fbd",
+      "title": "223 - Covenant with David",
+      "themes": [
+        "covenant",
+        "Jesus Christ",
+        "discipleship",
+        "worship"
+      ],
+      "evidence": {
+        "covenant": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "Jesus Christ": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "worship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "68a9488548a65f6869eccc53",
+      "title": "222 - Covenant with Israel",
+      "themes": [
+        "covenant",
+        "Scripture",
+        "community and belonging"
+      ],
+      "evidence": {
+        "covenant": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "Scripture": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "community and belonging": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "68a7b48032469d66ed735c25",
+      "title": "221 - Covenant with Abraham",
+      "themes": [
+        "covenant",
+        "Scripture",
+        "Jesus Christ"
+      ],
+      "evidence": {
+        "covenant": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "Scripture": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "Jesus Christ": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "689e6bf52f075d2f6db45700",
+      "title": "220 - Covenant of Creation and Covenant with Noah",
+      "themes": [
+        "covenant",
+        "creation",
+        "biblical theology",
+        "hope"
+      ],
+      "evidence": {
+        "covenant": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "creation": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "biblical theology": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "hope": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "689521c9276b903e2788e209",
+      "title": "219 - What is a Covenant?",
+      "themes": [
+        "covenant",
+        "hope"
+      ],
+      "evidence": {
+        "covenant": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "hope": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "68670641b33f4d555894e76e",
+      "title": "218 - Get to Know an Elder: Mark Williams",
+      "themes": [
+        "leadership",
+        "biography and testimony",
+        "Christian decision-making",
+        "salvation"
+      ],
+      "evidence": {
+        "leadership": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "biography and testimony": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "Christian decision-making": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "salvation": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "685f25925a2ec417784d0d43",
+      "title": "217 - Fellow Workers: How Can You Be a Fellow Worker?",
+      "themes": [
+        "church partnerships",
+        "missions strategy",
+        "cross-cultural ministry",
+        "evangelism and missions",
+        "church",
+        "gospel"
+      ],
+      "evidence": {
+        "church partnerships": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "missions strategy": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "cross-cultural ministry": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "evangelism and missions": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "gospel": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6851b38275637810243b4daa",
+      "title": "216 - Fellow Workers: What is Hinson's Missions Strategy?",
+      "themes": [
+        "missions strategy",
+        "cross-cultural ministry",
+        "evangelism and missions",
+        "church partnerships",
+        "gospel"
+      ],
+      "evidence": {
+        "missions strategy": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "cross-cultural ministry": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "evangelism and missions": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church partnerships": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "gospel": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "684b58660a8cab351dff00a8",
+      "title": "215 - Fellow Workers: What Does the World Look Like Today?",
+      "themes": [
+        "church partnerships",
+        "missions strategy",
+        "cross-cultural ministry",
+        "evangelism and missions"
+      ],
+      "evidence": {
+        "church partnerships": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "missions strategy": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "cross-cultural ministry": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "evangelism and missions": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "68422ccdd19127258bab41df",
+      "title": "214 - Fellow Workers: How Did the Church Grow After Acts?",
+      "themes": [
+        "church",
+        "church partnerships",
+        "missions strategy",
+        "Jesus Christ",
+        "church history",
+        "cross-cultural ministry",
+        "evangelism and missions"
+      ],
+      "evidence": {
+        "church": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church partnerships": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "missions strategy": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "Jesus Christ": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church history": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "cross-cultural ministry": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "evangelism and missions": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6838a9c26a51c45b883b3311",
+      "title": "213 - Fellow Workers: Where Does the Church Fit in Missions? ",
+      "themes": [
+        "church",
+        "church partnerships",
+        "cross-cultural ministry",
+        "evangelism and missions",
+        "missions strategy",
+        "Jesus Christ"
+      ],
+      "evidence": {
+        "church": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church partnerships": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "cross-cultural ministry": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "evangelism and missions": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "missions strategy": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "Jesus Christ": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "682bf417d7e9120c85fe9115",
+      "title": "212 - Get to Know a New Staff Member: Thipok Saengthian",
+      "themes": [
+        "biography and testimony"
+      ],
+      "evidence": {
+        "biography and testimony": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6813ab74bbcbe059049b0bac",
+      "title": "211 - Get to Know a Member: Jerry Sumpter",
+      "themes": [
+        "biography and testimony",
+        "church"
+      ],
+      "evidence": {
+        "biography and testimony": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6808428fac62b06c0cf84b9e",
+      "title": "210 - Get to Know Amanda Nay",
+      "themes": [
+        "biography and testimony"
+      ],
+      "evidence": {
+        "biography and testimony": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "67e58f383546ad15d1a30615",
+      "title": "209 - Get to Know Geoff Chang",
+      "themes": [
+        "biography and testimony",
+        "church history",
+        "discipleship",
+        "joy",
+        "pastoral care",
+        "wisdom"
+      ],
+      "evidence": {
+        "biography and testimony": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "church history": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "joy": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "pastoral care": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "wisdom": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "67e07ddc4adfae593a866ef5",
+      "title": "208 - Mack Stiles on Evangelism Part 2",
+      "themes": [
+        "evangelism and missions"
+      ],
+      "evidence": {
+        "evangelism and missions": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "67e079e39190ec377f8744c1",
+      "title": "207 - Mack Stiles on Evangelism Part 1",
+      "themes": [
+        "evangelism and missions"
+      ],
+      "evidence": {
+        "evangelism and missions": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "67d4a7170becea211471cd4c",
+      "title": "206 - Get To Know An Elder with Ian Shanahan",
+      "themes": [
+        "leadership",
+        "biography and testimony",
+        "Jesus Christ",
+        "church",
+        "discipleship",
+        "marriage"
+      ],
+      "evidence": {
+        "leadership": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "biography and testimony": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "Jesus Christ": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "marriage": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "67c0f354edac1d4d23e6599a",
+      "title": "205 - Fellow Workers - Where is Missions in the New Testament?",
+      "themes": [
+        "cross-cultural ministry",
+        "evangelism and missions",
+        "church partnerships",
+        "missions strategy",
+        "Scripture"
+      ],
+      "evidence": {
+        "cross-cultural ministry": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "evangelism and missions": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church partnerships": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "missions strategy": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "Scripture": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "679a6bf6dff30c4af9766038",
+      "title": "204 - Fellow Workers - Where is Missions in the Old Testament?",
+      "themes": [
+        "church partnerships",
+        "cross-cultural ministry",
+        "evangelism and missions",
+        "missions strategy",
+        "Bible canon and transmission",
+        "Scripture"
+      ],
+      "evidence": {
+        "church partnerships": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "cross-cultural ministry": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "evangelism and missions": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "missions strategy": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "Bible canon and transmission": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "Scripture": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6776e243feb9722a99d96949",
+      "title": "203 - Get To Know An Elder With Trent Hughes",
+      "themes": [
+        "biography and testimony",
+        "leadership",
+        "church",
+        "gratitude"
+      ],
+      "evidence": {
+        "biography and testimony": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "leadership": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "gratitude": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "67898fe4f9f6d54b8871592c",
+      "title": "Christ In The Old Testament - Week 4: Christ in the Prophets",
+      "themes": [
+        "Jesus Christ",
+        "biblical theology",
+        "Scripture"
+      ],
+      "evidence": {
+        "Jesus Christ": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "biblical theology": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "Scripture": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6764b15b426c1421e0c36c8a",
+      "title": "202 - Deacons with Michael Lawrence",
+      "themes": [
+        "deacons",
+        "leadership",
+        "church"
+      ],
+      "evidence": {
+        "deacons": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "leadership": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6765e1882089d805522d6978",
+      "title": "Christ In The Old Testament - Week 3: Christ in the Psalms",
+      "themes": [
+        "Jesus Christ",
+        "biblical theology",
+        "prayer"
+      ],
+      "evidence": {
+        "Jesus Christ": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "biblical theology": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "prayer": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "675df2a2f21f7451368044e5",
+      "title": " Christ In The Old Testament - Week 2: Christ in the Torah and Historical Boks",
+      "themes": [
+        "Jesus Christ",
+        "biblical theology"
+      ],
+      "evidence": {
+        "Jesus Christ": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "biblical theology": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "675a3014c5b65a1bdd1b1d55",
+      "title": "Christ In The Old Testament - Week 1: Christ In The Torah",
+      "themes": [
+        "Jesus Christ",
+        "biblical theology"
+      ],
+      "evidence": {
+        "Jesus Christ": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "biblical theology": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6744143215012e3b4abd8809",
+      "title": "201 - Get To Know A Global Worker",
+      "themes": [
+        "biography and testimony",
+        "cross-cultural ministry",
+        "missions strategy"
+      ],
+      "evidence": {
+        "biography and testimony": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "cross-cultural ministry": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "missions strategy": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6737d7ee60f27948d0fbde1b",
+      "title": "200 - Get To Know The Pastoral Residents of 2024",
+      "themes": [
+        "pastoral training",
+        "biography and testimony",
+        "church",
+        "gratitude"
+      ],
+      "evidence": {
+        "pastoral training": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "biography and testimony": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "gratitude": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "672401de16cfb229444dc6da",
+      "title": "199 - Rhetoric and Retirement with Bohn Lattin",
+      "themes": [
+        "rhetoric and communication",
+        "retirement",
+        "biography and testimony",
+        "church",
+        "work"
+      ],
+      "evidence": {
+        "rhetoric and communication": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "retirement": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "work": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6707ffb13ed9a361890b172f",
+      "title": "198 - Get To Know A Staff Member With Mary Liebert",
+      "themes": [
+        "biography and testimony",
+        "children's ministry",
+        "church",
+        "holiness",
+        "joy",
+        "marriage",
+        "wisdom",
+        "women in ministry"
+      ],
+      "evidence": {
+        "biography and testimony": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "children's ministry": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "holiness": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "joy": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "marriage": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "wisdom": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "women in ministry": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "66f8c2146f4e003842555e60",
+      "title": "197 - Get to Know An Elder with Davey Walker",
+      "themes": [
+        "leadership",
+        "biography and testimony",
+        "gospel",
+        "preaching"
+      ],
+      "evidence": {
+        "leadership": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "biography and testimony": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "gospel": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "preaching": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "66f867c5199cb50d70689d56",
+      "title": "196 - Hinson Small Groups Are Helpful, Not Essential!",
+      "themes": [
+        "church life",
+        "community and belonging",
+        "small groups"
+      ],
+      "evidence": {
+        "church life": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "community and belonging": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "small groups": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "66f2ef9f600c4035c6f10e9b",
+      "title": "195 - Get To Know A Staff Member: Tanner Callison",
+      "themes": [
+        "biography and testimony",
+        "conversion and assurance"
+      ],
+      "evidence": {
+        "biography and testimony": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "conversion and assurance": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "66e67a636f8ad57146444911",
+      "title": "194 - Reflections with PK",
+      "themes": [
+        "biography and testimony"
+      ],
+      "evidence": {
+        "biography and testimony": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "66ccbe1bb253041fc87f4762",
+      "title": "193 - Get To Know An Elder: Jim Evernden",
+      "themes": [
+        "biography and testimony",
+        "leadership"
+      ],
+      "evidence": {
+        "biography and testimony": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "leadership": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "66c18c62c994c27221ff372f",
+      "title": "192 - Conversation with Matthias Lohmann",
+      "themes": [
+        "biography and testimony"
+      ],
+      "evidence": {
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "66ae8009882b7506bb7a805c",
+      "title": "191 - Reflections on 13 years",
+      "themes": [
+        "biography and testimony",
+        "church",
+        "leadership"
+      ],
+      "evidence": {
+        "biography and testimony": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "leadership": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "667cb4ea76d9df2146695335",
+      "title": "190 - Michael Kane is a Wise Guy",
+      "themes": [
+        "wisdom"
+      ],
+      "evidence": {
+        "wisdom": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6660673a9825d02a20a0a46f",
+      "title": "189 - Christian Political Engagement Class #9 ",
+      "themes": [
+        "Christian political engagement",
+        "politics"
+      ],
+      "evidence": {
+        "Christian political engagement": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "politics": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "665a6b934642716f0c5f06d0",
+      "title": "188 - David Fisher on leaving",
+      "themes": [
+        "church transitions"
+      ],
+      "evidence": {
+        "church transitions": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "665a6b1019856117cad47624",
+      "title": "187 - Vonny's Time on Church Staff",
+      "themes": [
+        "church",
+        "pastoral training",
+        "preaching"
+      ],
+      "evidence": {
+        "church": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "pastoral training": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "preaching": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6654b6037f870b56a4096f88",
+      "title": "186 - Culture Over Color",
+      "themes": [
+        "race and cultural identity",
+        "biography and testimony",
+        "pastoral training"
+      ],
+      "evidence": {
+        "race and cultural identity": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "pastoral training": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6654b05c8c8f5d0e80edad86",
+      "title": "185 - Christian Political Engagement Class #8",
+      "themes": [
+        "Christian political engagement",
+        "politics"
+      ],
+      "evidence": {
+        "Christian political engagement": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "politics": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "664c279013afee64c5a89edf",
+      "title": "184 - Christian Political Engagement Class #7",
+      "themes": [
+        "Christian political engagement",
+        "politics"
+      ],
+      "evidence": {
+        "Christian political engagement": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "politics": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "66419337a67105609d24b5aa",
+      "title": "183 - Christian Political Engagement Class #6",
+      "themes": [
+        "Christian political engagement",
+        "politics"
+      ],
+      "evidence": {
+        "Christian political engagement": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "politics": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "6637e2cbd4ea493f46d309a1",
+      "title": "182 - Christian Political Engagement Class #5",
+      "themes": [
+        "Christian political engagement",
+        "politics"
+      ],
+      "evidence": {
+        "Christian political engagement": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "politics": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "6637e28bb47fde3eff036685",
+      "title": "181 - Christian Political Engagement Class #4",
+      "themes": [
+        "Christian political engagement",
+        "politics"
+      ],
+      "evidence": {
+        "Christian political engagement": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "politics": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "662ede280a69ec4569a10fe0",
+      "title": "180 - Adrienne on Motherhood",
+      "themes": [
+        "parenting and family",
+        "biography and testimony"
+      ],
+      "evidence": {
+        "parenting and family": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6627402a2647ba33488113b8",
+      "title": "179 - Living a Cross-evidenced Marriage - 5",
+      "themes": [
+        "marriage",
+        "cross and atonement"
+      ],
+      "evidence": {
+        "marriage": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "cross and atonement": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "66273fc1f2a01a1305cdc305",
+      "title": "178 - How is Your Home Built? - 4",
+      "themes": [
+        "marriage"
+      ],
+      "evidence": {
+        "marriage": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "66273f5eb716b732814257ac",
+      "title": "177 - Marriage & Sexuality - 3",
+      "themes": [
+        "marriage",
+        "sexuality and gender"
+      ],
+      "evidence": {
+        "marriage": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "sexuality and gender": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "66273edaa39e914344e86e9d",
+      "title": "176 - Elements of a Christ-Centered Marriage - 2",
+      "themes": [
+        "marriage",
+        "Jesus Christ"
+      ],
+      "evidence": {
+        "marriage": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "Jesus Christ": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "66273d549fe4c51d01b78f93",
+      "title": "175 - What Makes Marriages Work with the Most Lasting Satisfaction? - 1",
+      "themes": [
+        "marriage"
+      ],
+      "evidence": {
+        "marriage": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "66259a3ac6a57c7b5b28f1d5",
+      "title": "174 - Christian Political Engagement Class #3",
+      "themes": [
+        "Christian political engagement",
+        "politics"
+      ],
+      "evidence": {
+        "Christian political engagement": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "politics": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "66259b6af527b10e2d439c76",
+      "title": "173 - Barbara Costner on her life part 2",
+      "themes": [
+        "biography and testimony"
+      ],
+      "evidence": {
+        "biography and testimony": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "66259acb21e52b0887e57d39",
+      "title": "172 - Barbara Costner on her life part 1",
+      "themes": [
+        "biography and testimony"
+      ],
+      "evidence": {
+        "biography and testimony": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "661e1606f00d73347a153c2f",
+      "title": "171 - Kimi on Community & Coffee",
+      "themes": [
+        "community and belonging",
+        "biography and testimony"
+      ],
+      "evidence": {
+        "community and belonging": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "661e0ea468c0ff051986dd3a",
+      "title": "170 - Christian Political Engagement Class #2",
+      "themes": [
+        "Christian political engagement",
+        "politics"
+      ],
+      "evidence": {
+        "Christian political engagement": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "politics": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "66162ee387f9666f69bffc38",
+      "title": "169 - Christian Political Engagement Class #1",
+      "themes": [
+        "Christian political engagement",
+        "politics",
+        "Scripture"
+      ],
+      "evidence": {
+        "Christian political engagement": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "politics": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "Scripture": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "660223fce4d97433a80ed7c4",
+      "title": "168 - Mark Von Wald as Staff Pastor",
+      "themes": [
+        "leadership",
+        "pastoral care",
+        "counseling"
+      ],
+      "evidence": {
+        "leadership": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "pastoral care": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "counseling": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "65e0bb65ea71513108f9a114",
+      "title": "167 - Counseling & the Church",
+      "themes": [
+        "counseling",
+        "church",
+        "leadership",
+        "discipleship"
+      ],
+      "evidence": {
+        "counseling": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "church": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "leadership": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "65c06019a99643737b5b6a40",
+      "title": "166 - Rileys on Erbil - Part 2",
+      "themes": [
+        "cross-cultural ministry",
+        "missions strategy"
+      ],
+      "evidence": {
+        "cross-cultural ministry": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "missions strategy": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "65c05fa727dbcd7532a1a866",
+      "title": "165 - Rileys on Erbil - Part 1",
+      "themes": [
+        "cross-cultural ministry",
+        "missions strategy"
+      ],
+      "evidence": {
+        "cross-cultural ministry": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "missions strategy": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "65b74b5463af444745ca38c6",
+      "title": "164 - Shai Linne on The New Reformation",
+      "themes": [
+        "church history",
+        "biography and testimony",
+        "church",
+        "discipleship",
+        "unity"
+      ],
+      "evidence": {
+        "church history": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "unity": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "65ad92690b6b077bc108cae7",
+      "title": "163 - Tom Schreiner on Spiritual Gifts ",
+      "themes": [
+        "spiritual gifts",
+        "biography and testimony"
+      ],
+      "evidence": {
+        "spiritual gifts": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "65a44d638ed92652dfdebac4",
+      "title": "162 - Jeff Lacine on 10 yrs @ Sellwood",
+      "themes": [
+        "church"
+      ],
+      "evidence": {
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "6585111280c5295634f056a5",
+      "title": "161 - Juliet on Hospitality",
+      "themes": [
+        "community and belonging",
+        "friendship",
+        "Lord's Supper",
+        "biography and testimony"
+      ],
+      "evidence": {
+        "community and belonging": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "friendship": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "Lord's Supper": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "65717c921db5a26d2c650295",
+      "title": "160 - Bobby Jamieson on the Lord's Supper",
+      "themes": [
+        "Lord's Supper",
+        "biography and testimony"
+      ],
+      "evidence": {
+        "Lord's Supper": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "65551c705462293646271143",
+      "title": "159 - Israel & Palestine Conflict",
+      "themes": [
+        "Israel and Palestine",
+        "politics",
+        "Jesus Christ"
+      ],
+      "evidence": {
+        "Israel and Palestine": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "politics": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "Jesus Christ": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "651620197ce45e3e3acf2615",
+      "title": "158 - Trevor Gilbert on AI",
+      "themes": [
+        "artificial intelligence",
+        "technology"
+      ],
+      "evidence": {
+        "artificial intelligence": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "technology": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "65161cba2435ca1601914ddf",
+      "title": "157 - Meet the 2023 Pastoral Residents",
+      "themes": [
+        "pastoral training",
+        "biography and testimony",
+        "leadership"
+      ],
+      "evidence": {
+        "pastoral training": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "leadership": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "65161a2b34a5de5be7973a1a",
+      "title": "156 - Andy & Lyndsey Matsuoka ",
+      "themes": [
+        "cross-cultural ministry",
+        "evangelism and missions",
+        "biography and testimony"
+      ],
+      "evidence": {
+        "cross-cultural ministry": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "evangelism and missions": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "650a110bf6ac6c44dd907ffa",
+      "title": "155 - New Elder - Mark VonWald",
+      "themes": [
+        "leadership",
+        "biography and testimony",
+        "discipleship"
+      ],
+      "evidence": {
+        "leadership": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6503fa531a6e7a19fc03f61e",
+      "title": "154 - New Elder - Jon Schnur",
+      "themes": [
+        "leadership",
+        "biography and testimony",
+        "church life",
+        "community and belonging",
+        "discipleship",
+        "small groups"
+      ],
+      "evidence": {
+        "leadership": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church life": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "community and belonging": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "small groups": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "64a6f816c85fd076bd403af5",
+      "title": "153 - Dan on Anxiety",
+      "themes": [
+        "anxiety",
+        "gospel"
+      ],
+      "evidence": {
+        "anxiety": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "gospel": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "64a6f5e5943bfc7c256e36f8",
+      "title": "152 - Bobbi Jo Yarborough on Anxiety (part 2)",
+      "themes": [
+        "anxiety",
+        "gospel"
+      ],
+      "evidence": {
+        "anxiety": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "gospel": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "64a1dfd526741440c4ee98b3",
+      "title": "151 - Bobbi Jo Yarborough on Anxiety (part 1)",
+      "themes": [
+        "anxiety",
+        "gospel"
+      ],
+      "evidence": {
+        "anxiety": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "gospel": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "64939bb64849570220a865a8",
+      "title": "150 - Madeline DeBoer on Anxiety",
+      "themes": [
+        "anxiety",
+        "Jesus Christ",
+        "gospel"
+      ],
+      "evidence": {
+        "anxiety": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "Jesus Christ": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "gospel": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "64778f0b68e1a560f8505e40",
+      "title": "149- Children's Ministry Training 2023",
+      "themes": [
+        "children's ministry"
+      ],
+      "evidence": {
+        "children's ministry": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6420c2d0b7f9016fb8c5da69",
+      "title": "148 - Neal on Culture of Discipleship",
+      "themes": [
+        "discipleship",
+        "church",
+        "church partnerships"
+      ],
+      "evidence": {
+        "discipleship": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church partnerships": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "63e95f6411721161424c56e4",
+      "title": "147 - Authority at Hinson",
+      "themes": [
+        "church governance",
+        "church life",
+        "leadership",
+        "deacons",
+        "discipleship"
+      ],
+      "evidence": {
+        "church governance": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church life": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "leadership": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "deacons": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "63e305f12007a15d4e90a9ee",
+      "title": "146 - Statement of Faith",
+      "themes": [
+        "confessions and statements of faith",
+        "biography and testimony",
+        "church",
+        "unity"
+      ],
+      "evidence": {
+        "confessions and statements of faith": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "unity": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "63d49839213ebc36fa01077b",
+      "title": "145 - The Church Covenant",
+      "themes": [
+        "church",
+        "church governance",
+        "church life",
+        "covenant"
+      ],
+      "evidence": {
+        "church": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "church governance": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "church life": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "covenant": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "63c20ced569f6b061955c444",
+      "title": "144 - What is a Church?",
+      "themes": [
+        "church",
+        "church membership",
+        "biography and testimony"
+      ],
+      "evidence": {
+        "church": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church membership": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "639926335a90a93394ad2cf1",
+      "title": "143 - Michael Kane on Work",
+      "themes": [
+        "work"
+      ],
+      "evidence": {
+        "work": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "638fdbfc249b1a20de37b548",
+      "title": "142 - Mark Widgery on End of Life",
+      "themes": [
+        "death and end-of-life care"
+      ],
+      "evidence": {
+        "death and end-of-life care": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "63855eced9aa9d1e6d8513f0",
+      "title": "141 - David Fisher on Meta",
+      "themes": [
+        "church partnerships",
+        "technology",
+        "gaming and social media",
+        "creation and humanity",
+        "discipleship"
+      ],
+      "evidence": {
+        "church partnerships": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "technology": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "gaming and social media": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "creation and humanity": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "63461ee937365b23a2277cb0",
+      "title": "140 - The Necessity of Conversion and Assurance",
+      "themes": [
+        "church partnerships",
+        "conversion and assurance"
+      ],
+      "evidence": {
+        "church partnerships": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "conversion and assurance": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6371a3129eca4b01be712870",
+      "title": "139 - TML on Statement of Faith Changes",
+      "themes": [
+        "confessions and statements of faith"
+      ],
+      "evidence": {
+        "confessions and statements of faith": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6368a9a94c433b6b103e9f6b",
+      "title": "138 - Resident class of 2022",
+      "themes": [
+        "pastoral training"
+      ],
+      "evidence": {
+        "pastoral training": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "63461d122ea1e66ea37f439c",
+      "title": "137 - The Necessity of Conversion and the Family",
+      "themes": [
+        "church partnerships",
+        "conversion and assurance"
+      ],
+      "evidence": {
+        "church partnerships": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "conversion and assurance": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "63461e173fbedc0bca962787",
+      "title": "136 - The Necessity of Conversion and the Local Church ",
+      "themes": [
+        "church partnerships",
+        "church",
+        "conversion and assurance"
+      ],
+      "evidence": {
+        "church partnerships": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "church": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "conversion and assurance": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "63461ae6916f214016870f9a",
+      "title": "135 - How to be a Good Small Group Member",
+      "themes": [
+        "small groups",
+        "church life",
+        "community and belonging",
+        "biography and testimony",
+        "church",
+        "discipleship",
+        "leadership"
+      ],
+      "evidence": {
+        "small groups": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "church life": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "community and belonging": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "leadership": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "63364fd3e994b42c67437bd7",
+      "title": "134 - Get to know Ed Copeland!",
+      "themes": [
+        "biography and testimony"
+      ],
+      "evidence": {
+        "biography and testimony": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "63364d1db8cdf06aa08a9b65",
+      "title": "133 - David Fisher on Interdependence",
+      "themes": [
+        "church partnerships",
+        "community and belonging",
+        "biography and testimony",
+        "church"
+      ],
+      "evidence": {
+        "church partnerships": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "community and belonging": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "631a84657102140f46699b76",
+      "title": "132 - Missions Strategy with Neal",
+      "themes": [
+        "cross-cultural ministry",
+        "evangelism and missions",
+        "missions strategy",
+        "church"
+      ],
+      "evidence": {
+        "cross-cultural ministry": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "evangelism and missions": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "missions strategy": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "631a836965e19567fa94ec3f",
+      "title": "131 - Philosophy of Ministry with Michael ",
+      "themes": [
+        "church"
+      ],
+      "evidence": {
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "629d6e8f6364d1052d039261",
+      "title": "129 - Headship & Submission with Dan & Ashley",
+      "themes": [
+        "sexuality and gender",
+        "biography and testimony",
+        "marriage"
+      ],
+      "evidence": {
+        "sexuality and gender": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "marriage": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "62996f157ecc7302dfaf860b",
+      "title": "128 - NEW Children's Ministry Annual Safety Training",
+      "themes": [
+        "children's ministry",
+        "church"
+      ],
+      "evidence": {
+        "children's ministry": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "628da3082e14a049cd593259",
+      "title": "127 - Conversion and Evangelism",
+      "themes": [
+        "church partnerships",
+        "conversion and assurance",
+        "evangelism and missions"
+      ],
+      "evidence": {
+        "church partnerships": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "conversion and assurance": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "evangelism and missions": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6274698f9a2ee36705954cdb",
+      "title": "126 - The Necessity of Perseverance",
+      "themes": [
+        "church partnerships",
+        "perseverance"
+      ],
+      "evidence": {
+        "church partnerships": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "perseverance": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "6269ffdcc03a917369694d2a",
+      "title": "125 - Todd Miles on Complementarianism",
+      "themes": [
+        "sexuality and gender",
+        "Scripture",
+        "church"
+      ],
+      "evidence": {
+        "sexuality and gender": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "Scripture": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "62608bb7c80a980dca73d7f5",
+      "title": "124 - The Necessity of Our Work",
+      "themes": [
+        "church partnerships",
+        "work"
+      ],
+      "evidence": {
+        "church partnerships": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "work": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "62576877aa4ab22e23ba3f89",
+      "title": "123 - Todd Miles on Holy Week",
+      "themes": [
+        "Jesus Christ",
+        "biography and testimony",
+        "cross and atonement",
+        "resurrection"
+      ],
+      "evidence": {
+        "Jesus Christ": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "cross and atonement": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "resurrection": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "62535da8bab7d43cd892d701",
+      "title": "122 - The Necessity of God’s Work",
+      "themes": [
+        "church partnerships"
+      ],
+      "evidence": {
+        "church partnerships": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "6247b401b7c0397c257b6682",
+      "title": "121 - The Necessity of Conversion",
+      "themes": [
+        "church partnerships",
+        "conversion and assurance"
+      ],
+      "evidence": {
+        "church partnerships": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "conversion and assurance": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "623bb0c6484dea625e9d4aea",
+      "title": "120 -  Interview w/ Dougg & LeAnn Custer!",
+      "themes": [
+        "biography and testimony",
+        "cross-cultural ministry",
+        "evangelism and missions"
+      ],
+      "evidence": {
+        "biography and testimony": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "cross-cultural ministry": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "evangelism and missions": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "6220d81c7dd0997bba710182",
+      "title": "119 -  Leaving Well",
+      "themes": [
+        "church",
+        "Christian commitment",
+        "church transitions",
+        "unity",
+        "perseverance"
+      ],
+      "evidence": {
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "Christian commitment": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "church transitions": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "unity": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "perseverance": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "6212cc628225a7697ff4dcbf",
+      "title": "118 -  Austin on Work",
+      "themes": [
+        "work"
+      ],
+      "evidence": {
+        "work": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "61fb110cee99764d3343c225",
+      "title": "117 -  Donkey Kong & Worship",
+      "themes": [
+        "gaming and social media",
+        "technology",
+        "worship"
+      ],
+      "evidence": {
+        "gaming and social media": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "technology": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "worship": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "61f9bf06aa36644127833cb0",
+      "title": "116 -  Talking to an Elder",
+      "themes": [
+        "leadership",
+        "church",
+        "church life",
+        "community and belonging"
+      ],
+      "evidence": {
+        "leadership": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "church": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "church life": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "community and belonging": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "61f1b7f48bc5190e1e6071d1",
+      "title": "115 -  Jews for Jesus w/ Josh ",
+      "themes": [
+        "Jesus Christ",
+        "evangelism and missions"
+      ],
+      "evidence": {
+        "Jesus Christ": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "evangelism and missions": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "61e86754a7eb0355bdf98546",
+      "title": "114 -  Evangelism with Kelly Bartz",
+      "themes": [
+        "evangelism and missions",
+        "gaming and social media",
+        "technology"
+      ],
+      "evidence": {
+        "evangelism and missions": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "gaming and social media": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "technology": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "61df8cc2ddf7c22c1fd110aa",
+      "title": "113 -  Bryan Winchester on Church Associations",
+      "themes": [
+        "church",
+        "church partnerships"
+      ],
+      "evidence": {
+        "church": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "church partnerships": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "61d62287aaf0b03bbb972f0a",
+      "title": "112 -  Jon Paivarinta on Evangelism",
+      "themes": [
+        "evangelism and missions",
+        "gospel"
+      ],
+      "evidence": {
+        "evangelism and missions": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "gospel": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "61c37d23265fc77e8d4df6f6",
+      "title": "111 -  Michael Lawrence on What is the Gospel? ",
+      "themes": [
+        "gospel",
+        "evangelism and missions"
+      ],
+      "evidence": {
+        "gospel": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "evangelism and missions": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "61c37bf096691b6855d8e702",
+      "title": "110 -  Todd Miles on the Goal of Evangelism",
+      "themes": [
+        "evangelism and missions",
+        "gospel"
+      ],
+      "evidence": {
+        "evangelism and missions": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "gospel": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "61b95c1450e2e246b53f811b",
+      "title": "109 -  Willem & Carol Nel",
+      "themes": [
+        "cross-cultural ministry",
+        "evangelism and missions",
+        "missions strategy",
+        "biography and testimony"
+      ],
+      "evidence": {
+        "cross-cultural ministry": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "evangelism and missions": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "missions strategy": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "61b25a4be4fbb24eece6ce15",
+      "title": "108 -  2021 Pastoral Residents",
+      "themes": [
+        "pastoral training",
+        "biography and testimony"
+      ],
+      "evidence": {
+        "pastoral training": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "61a80bfffc40b063a754d1a1",
+      "title": "107 -  Anthony & Kyle - Video Games (aka. Twitch is huge!)",
+      "themes": [
+        "gaming and social media",
+        "technology",
+        "parenting and family"
+      ],
+      "evidence": {
+        "gaming and social media": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "technology": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "parenting and family": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "6195d5753c1d011b7337fba1",
+      "title": "106 -  Woolsty on Affliction",
+      "themes": [
+        "suffering",
+        "grace"
+      ],
+      "evidence": {
+        "suffering": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "grace": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "618ac87795869f5101d394b1",
+      "title": "105 -  Alex Duke on 9Marks",
+      "themes": [
+        "church partnerships",
+        "biography and testimony"
+      ],
+      "evidence": {
+        "church partnerships": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6181843a00156b3da5d5e774",
+      "title": "104 - Ronnie and Jess Sylvester",
+      "themes": [
+        "cross-cultural ministry",
+        "evangelism and missions"
+      ],
+      "evidence": {
+        "cross-cultural ministry": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "evangelism and missions": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "6178378f6bb3df47655b9d0d",
+      "title": "103 - Get to know Stephen Brucker!",
+      "themes": [
+        "biography and testimony",
+        "church",
+        "leadership"
+      ],
+      "evidence": {
+        "biography and testimony": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "leadership": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "617054089b571055d383e1d6",
+      "title": "102 - Non-Attending Members w/ Greg Gilbert",
+      "themes": [
+        "church",
+        "church membership",
+        "church life",
+        "biography and testimony"
+      ],
+      "evidence": {
+        "church": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "church membership": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "church life": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6167ae7d0c59b762ceb356df",
+      "title": "101 - Tommie from South Africa!",
+      "themes": [
+        "biography and testimony"
+      ],
+      "evidence": {
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "615de73552116a574afe5b32",
+      "title": "100 - Dr. Geoff Chang on Spurgeon's Church",
+      "themes": [
+        "church history",
+        "church",
+        "church life",
+        "church membership",
+        "discipleship"
+      ],
+      "evidence": {
+        "church history": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "church": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "church life": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church membership": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6153f93155c1f80854ece620",
+      "title": "99 - Michael on Bylaws & Congregationalism",
+      "themes": [
+        "church governance",
+        "church life",
+        "church",
+        "leadership"
+      ],
+      "evidence": {
+        "church governance": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "church life": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "leadership": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "61494915247a753c3045be68",
+      "title": "98 - New Elder David Fisher!",
+      "themes": [
+        "leadership",
+        "biography and testimony"
+      ],
+      "evidence": {
+        "leadership": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6142376d49b37975047ce794",
+      "title": "97 - The Return of Davey Walker (to Hinson)",
+      "themes": [
+        "church transitions",
+        "biography and testimony",
+        "pastoral training"
+      ],
+      "evidence": {
+        "church transitions": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "pastoral training": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "61379ebeea47387a7a58c938",
+      "title": "96 - Jim Everden and Mark Whitcomb on Church Properties",
+      "themes": [
+        "church",
+        "church facilities"
+      ],
+      "evidence": {
+        "church": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "church facilities": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "612d1f4e7a00e4554ace98d1",
+      "title": "95 - Children's Ministry Training",
+      "themes": [
+        "children's ministry"
+      ],
+      "evidence": {
+        "children's ministry": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6127d9b32d6eeb724d047b54",
+      "title": "94 - Christian Lawrence: Supported seminarian to Simeon Trust",
+      "themes": [
+        "pastoral training",
+        "preaching"
+      ],
+      "evidence": {
+        "pastoral training": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "preaching": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "611ae013026dad38cb2c600c",
+      "title": "93 - Michael Lawrence on Pastoral Residency",
+      "themes": [
+        "pastoral training",
+        "leadership"
+      ],
+      "evidence": {
+        "pastoral training": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "leadership": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "6112f0fb1b2df10b61093a35",
+      "title": "92 - Jeremy Meeks on Preaching",
+      "themes": [
+        "preaching",
+        "pastoral training"
+      ],
+      "evidence": {
+        "preaching": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "pastoral training": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "610a12a9160aab4f70ac84e3",
+      "title": "91 - Mary Alice Deboer on Women's Ministry",
+      "themes": [
+        "women in ministry"
+      ],
+      "evidence": {
+        "women in ministry": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6104338e389568635653c7fb",
+      "title": "90 - Jon and Holly Schnur on Small Groups",
+      "themes": [
+        "small groups",
+        "church life",
+        "community and belonging",
+        "church"
+      ],
+      "evidence": {
+        "small groups": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "church life": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "community and belonging": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "60ff085f5296e51102d347ed",
+      "title": "89 - Daniel at Simeon Trust",
+      "themes": [
+        "preaching",
+        "pastoral training"
+      ],
+      "evidence": {
+        "preaching": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "pastoral training": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "60f229eefe2aa53669017b38",
+      "title": "88 - Jeff Liebert on Giving",
+      "themes": [
+        "money and generosity"
+      ],
+      "evidence": {
+        "money and generosity": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "60e23686f28d5b6438dfc1c5",
+      "title": "87 - PK - Pastoral Assistant",
+      "themes": [
+        "church",
+        "pastoral care",
+        "church life",
+        "church membership"
+      ],
+      "evidence": {
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "pastoral care": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church life": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "church membership": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "60c78879f904955a026919c8",
+      "title": "86 - Jeff Woolstenhulme  on Watchfulness",
+      "themes": [
+        "accountability",
+        "sanctification",
+        "suffering"
+      ],
+      "evidence": {
+        "accountability": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "sanctification": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "suffering": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "60b51a31fd5f411b461398de",
+      "title": "85 - Michael Lawrence on Revelation (Part 2)",
+      "themes": [
+        "revelation and last things",
+        "Jesus Christ",
+        "biblical theology",
+        "resurrection",
+        "suffering"
+      ],
+      "evidence": {
+        "revelation and last things": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "Jesus Christ": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "biblical theology": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "resurrection": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "suffering": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "60b51230e39ebd529569efeb",
+      "title": "84 - Michael Lawrence on Revelation (Part 1)",
+      "themes": [
+        "revelation and last things",
+        "Jesus Christ",
+        "biblical theology",
+        "resurrection",
+        "biography and testimony"
+      ],
+      "evidence": {
+        "revelation and last things": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "Jesus Christ": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "biblical theology": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "resurrection": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "60b47ba7e747f509c9091055",
+      "title": "83 - Dr. Tom Schreiner on Revelation ",
+      "themes": [
+        "revelation and last things",
+        "Jesus Christ",
+        "biblical theology",
+        "resurrection"
+      ],
+      "evidence": {
+        "revelation and last things": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "Jesus Christ": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "biblical theology": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "resurrection": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "60a998a00f22b81472b8105f",
+      "title": "82 - Whitney Woollard on Worshiping through Chronic Illness ",
+      "themes": [
+        "chronic illness",
+        "church",
+        "gospel",
+        "joy",
+        "marriage",
+        "grief"
+      ],
+      "evidence": {
+        "chronic illness": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "gospel": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "joy": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "marriage": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "grief": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "60a028223f9faf4d4363f61c",
+      "title": "81 - Dating with the Woollards",
+      "themes": [
+        "dating and singleness",
+        "gospel",
+        "holiness",
+        "joy",
+        "marriage",
+        "chronic illness"
+      ],
+      "evidence": {
+        "dating and singleness": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "gospel": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "holiness": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "joy": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "marriage": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "chronic illness": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "607f0f729bce9752c83b12a7",
+      "title": "80 - The Elisha Foundation",
+      "themes": [
+        "disability and special needs",
+        "gospel",
+        "joy",
+        "Jesus Christ",
+        "church"
+      ],
+      "evidence": {
+        "disability and special needs": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "gospel": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "joy": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "Jesus Christ": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "60775bc96f0de4463d883ac4",
+      "title": "79 - Liz Moody on OCD",
+      "themes": [
+        "OCD",
+        "mental health",
+        "Jesus Christ",
+        "gospel",
+        "joy",
+        "sanctification"
+      ],
+      "evidence": {
+        "OCD": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "mental health": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "Jesus Christ": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "gospel": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "joy": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "sanctification": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "6070715ce5e5e4691bb50470",
+      "title": "78 - Easter Extended!",
+      "themes": [
+        "resurrection",
+        "gospel"
+      ],
+      "evidence": {
+        "resurrection": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "gospel": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "60665df1dd5d7817a90ac31f",
+      "title": "77 - Cunninghams on Caring for Clergy",
+      "themes": [
+        "church",
+        "leadership",
+        "pastoral care",
+        "money and generosity",
+        "prayer",
+        "biography and testimony",
+        "church partnerships"
+      ],
+      "evidence": {
+        "church": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "leadership": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "pastoral care": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "money and generosity": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "prayer": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church partnerships": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "605d5d86d847d12e95c02ddd",
+      "title": "76 - Tanner & Amber Callison on Missions Mobilization",
+      "themes": [
+        "cross-cultural ministry",
+        "evangelism and missions",
+        "missions strategy",
+        "biblical theology",
+        "church",
+        "gospel"
+      ],
+      "evidence": {
+        "cross-cultural ministry": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "evangelism and missions": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "missions strategy": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "biblical theology": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "church": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "gospel": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "6053fb17cdc2be093a978a88",
+      "title": "75 - Mike DeBoer on Parenting Older Children",
+      "themes": [
+        "parenting and family",
+        "discipleship",
+        "gospel",
+        "marriage",
+        "perseverance",
+        "leadership"
+      ],
+      "evidence": {
+        "parenting and family": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "discipleship": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "gospel": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "marriage": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "perseverance": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "leadership": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "604a7f29aa8b230d2056a39f",
+      "title": "74 - Austin Davis on Accountability",
+      "themes": [
+        "accountability",
+        "community and belonging",
+        "discipleship",
+        "gospel"
+      ],
+      "evidence": {
+        "accountability": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "community and belonging": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "discipleship": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "gospel": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "60403b45071ab616be75668f",
+      "title": "73 - Daniel and Mark on God in the Whirlwind",
+      "themes": [
+        "gospel",
+        "justification",
+        "love",
+        "sanctification"
+      ],
+      "evidence": {
+        "gospel": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "justification": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "love": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "sanctification": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "602eaa8d6ee320439879361c",
+      "title": "72 - Stephen & Annelisa Riley Double Feature - Part 2",
+      "themes": [
+        "cross-cultural ministry",
+        "church",
+        "conversion and assurance",
+        "evangelism and missions",
+        "gospel",
+        "marriage",
+        "biography and testimony"
+      ],
+      "evidence": {
+        "cross-cultural ministry": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "church": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "conversion and assurance": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "evangelism and missions": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "gospel": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "marriage": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "602e934f39672674cc0efd47",
+      "title": "71 - Stephen & Annelisa Riley Double Feature - Part 1",
+      "themes": [
+        "cross-cultural ministry",
+        "church",
+        "conversion and assurance",
+        "evangelism and missions",
+        "gospel",
+        "marriage",
+        "biography and testimony"
+      ],
+      "evidence": {
+        "cross-cultural ministry": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "church": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "conversion and assurance": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "evangelism and missions": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "gospel": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "marriage": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "60241f82344a097a0adf9395",
+      "title": "70 - Unity in Diversity with PK",
+      "themes": [
+        "unity",
+        "race and cultural identity",
+        "gospel",
+        "biography and testimony"
+      ],
+      "evidence": {
+        "unity": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "race and cultural identity": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "gospel": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "601ae2fc46bd227f66fea908",
+      "title": "69 - Rebecca Smith on Discipiling",
+      "themes": [
+        "conversion and assurance",
+        "evangelism and missions",
+        "gospel",
+        "prayer",
+        "biography and testimony",
+        "marriage"
+      ],
+      "evidence": {
+        "conversion and assurance": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "evangelism and missions": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "gospel": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "prayer": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "marriage": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "6011a72a97abeb1e255ad820",
+      "title": "68 - Brad Hornback on Evangelism",
+      "themes": [
+        "evangelism and missions",
+        "conversion and assurance",
+        "gospel",
+        "prayer"
+      ],
+      "evidence": {
+        "evangelism and missions": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "conversion and assurance": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "gospel": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "prayer": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "600a1080315fe4213be8d7ca",
+      "title": "67 - Neal on Dependent Discipline",
+      "themes": [
+        "spiritual disciplines",
+        "accountability",
+        "prayer",
+        "grace"
+      ],
+      "evidence": {
+        "spiritual disciplines": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "accountability": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "prayer": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "grace": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5ff8c117bbc4d8033e2ceed7",
+      "title": "66 - Larry Gadbaugh on First Image & Abortion",
+      "themes": [
+        "abortion and sanctity of life",
+        "biography and testimony",
+        "church"
+      ],
+      "evidence": {
+        "abortion and sanctity of life": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5ff78da58b46927777038dfe",
+      "title": "65 - Michael on the New Year",
+      "themes": [
+        "hope",
+        "joy",
+        "church",
+        "biography and testimony",
+        "worship"
+      ],
+      "evidence": {
+        "hope": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "joy": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "worship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5fe517af5f46435143a834f3",
+      "title": "64 - Hinson Kids on Christmas",
+      "themes": [
+        "children's ministry",
+        "incarnation and virgin birth",
+        "joy",
+        "biography and testimony"
+      ],
+      "evidence": {
+        "children's ministry": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "incarnation and virgin birth": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "joy": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5fdc27f66542785c7ebe297c",
+      "title": "63 - Dan Schreiner on the Virgin Birth",
+      "themes": [
+        "incarnation and virgin birth",
+        "Jesus Christ",
+        "joy"
+      ],
+      "evidence": {
+        "incarnation and virgin birth": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "Jesus Christ": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "joy": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5fd12dfba6fa72282dcaa7b3",
+      "title": "62 - Todd Miles on the Incarnation",
+      "themes": [
+        "incarnation and virgin birth",
+        "joy"
+      ],
+      "evidence": {
+        "incarnation and virgin birth": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "joy": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5fc815ecdcb5b260796d3b31",
+      "title": "61 - Jeff Lacine on Conviction",
+      "themes": [
+        "church",
+        "leadership",
+        "Scripture"
+      ],
+      "evidence": {
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "leadership": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "Scripture": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5fbf0c04cb3e0f57713ea4f5",
+      "title": "60 - David Fisher on Joy",
+      "themes": [
+        "joy",
+        "contentment"
+      ],
+      "evidence": {
+        "joy": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "contentment": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5fb5961b67862d7d964fb67d",
+      "title": "59 - Mack Stiles on Missions",
+      "themes": [
+        "cross-cultural ministry",
+        "evangelism and missions",
+        "leadership",
+        "cross and atonement"
+      ],
+      "evidence": {
+        "cross-cultural ministry": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "evangelism and missions": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "leadership": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "cross and atonement": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5fac8f7e9488406ed96186ab",
+      "title": "58 - Michael Lawrence on Ecclesiastes",
+      "themes": [
+        "Scripture",
+        "joy",
+        "preaching",
+        "wisdom"
+      ],
+      "evidence": {
+        "Scripture": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "joy": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "preaching": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "wisdom": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5fa192513094e358f2bf5804",
+      "title": "57 - Mental Illness and the Christian",
+      "themes": [
+        "mental health",
+        "prayer",
+        "biography and testimony"
+      ],
+      "evidence": {
+        "mental health": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "prayer": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5f999fc726cfeb07e1117554",
+      "title": "56 - Mark Whitcomb on Commitment",
+      "themes": [
+        "Christian commitment",
+        "prayer",
+        "sanctification",
+        "biography and testimony"
+      ],
+      "evidence": {
+        "Christian commitment": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "prayer": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "sanctification": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5f912f87bc8e18771fb48d53",
+      "title": "55 - Justin - Hinson Pastoral Resident",
+      "themes": [
+        "pastoral training",
+        "cross-cultural ministry",
+        "missions strategy",
+        "gospel",
+        "prayer",
+        "biography and testimony"
+      ],
+      "evidence": {
+        "pastoral training": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "cross-cultural ministry": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "missions strategy": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "gospel": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "prayer": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5f86687a0f9e8a4ebc2f0c2c",
+      "title": "54 - Ashley Schreiner on Lament",
+      "themes": [
+        "grief",
+        "gospel",
+        "prayer",
+        "marriage",
+        "suffering"
+      ],
+      "evidence": {
+        "grief": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "gospel": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "prayer": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "marriage": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "suffering": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5f7d0c26bbe22e7db317278f",
+      "title": "53 - An International's Perspective on the Church in America",
+      "themes": [
+        "church",
+        "race and cultural identity",
+        "gospel",
+        "biography and testimony"
+      ],
+      "evidence": {
+        "church": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "race and cultural identity": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "gospel": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5f78fa5d87afb65ed31fd0e4",
+      "title": "52 - Michael's Comments to the Congregation",
+      "themes": [
+        "church"
+      ],
+      "evidence": {
+        "church": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5f616ecf4d1d5d53b4d177ed",
+      "title": "50 - Unity in Diversity",
+      "themes": [
+        "unity",
+        "race and cultural identity",
+        "church",
+        "community and belonging",
+        "gospel"
+      ],
+      "evidence": {
+        "unity": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "race and cultural identity": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "community and belonging": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "gospel": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5f5836dd500332767a7ae2b8",
+      "title": "49 - The Gospel & Your Struggling Child",
+      "themes": [
+        "gospel",
+        "community and belonging",
+        "counseling",
+        "prayer"
+      ],
+      "evidence": {
+        "gospel": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "community and belonging": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "counseling": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "prayer": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5f4fca0bca1e2c2771a88dc1",
+      "title": "48 - Doing Church when the city is on Fire",
+      "themes": [
+        "church",
+        "leadership",
+        "community and belonging",
+        "prayer"
+      ],
+      "evidence": {
+        "church": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "leadership": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "community and belonging": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "prayer": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5f46cd98f084df2a42298c0b",
+      "title": "47 - Dependence & Discipline",
+      "themes": [
+        "accountability",
+        "spiritual disciplines",
+        "church",
+        "leadership",
+        "prayer",
+        "sanctification",
+        "grace"
+      ],
+      "evidence": {
+        "accountability": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "spiritual disciplines": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "leadership": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "prayer": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "sanctification": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "grace": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5f3cb8533f889b5e15ad8795",
+      "title": "46 - Ron Marrs - Looking Back & Forward",
+      "themes": [
+        "church",
+        "leadership",
+        "biography and testimony"
+      ],
+      "evidence": {
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "leadership": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5f3425c1458c3d12c494a707",
+      "title": "45 - Pandemic Schooling",
+      "themes": [
+        "education and schooling",
+        "parenting and family",
+        "worship",
+        "church"
+      ],
+      "evidence": {
+        "education and schooling": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "parenting and family": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "worship": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5f2a5b7e9da801314d1670ff",
+      "title": "44 - Anthony Locke - Elder Nominee",
+      "themes": [
+        "leadership",
+        "biography and testimony"
+      ],
+      "evidence": {
+        "leadership": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5f213bbceaecdd7ff09948df",
+      "title": "43 - The Greatest Commandment ",
+      "themes": [
+        "love",
+        "obedience"
+      ],
+      "evidence": {
+        "love": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "obedience": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5f17abdc130d4a67c0b8d57d",
+      "title": "42 - Undying Joy in Phil 2-4",
+      "themes": [
+        "joy",
+        "biography and testimony",
+        "Jesus Christ",
+        "union with Christ"
+      ],
+      "evidence": {
+        "joy": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "Jesus Christ": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "union with Christ": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5f0e770a5d535d77f9fbdfd0",
+      "title": "41 - Friendship in the Lord",
+      "themes": [
+        "community and belonging",
+        "friendship",
+        "leadership"
+      ],
+      "evidence": {
+        "community and belonging": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "friendship": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "leadership": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5f05341b63b6387c9f99a73c",
+      "title": "40 - Joy & Unity in the Church",
+      "themes": [
+        "joy",
+        "unity",
+        "church",
+        "humility",
+        "leadership"
+      ],
+      "evidence": {
+        "joy": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "unity": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "church": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "humility": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "leadership": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5efd61813060533cdd9afa56",
+      "title": "39 - Neal Woolard - Associate Pastor Candidate",
+      "themes": [
+        "leadership",
+        "pastoral care"
+      ],
+      "evidence": {
+        "leadership": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "pastoral care": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5efd6046229fe539a8c3b31f",
+      "title": "38 - Reflection on Ten Years",
+      "themes": [
+        "leadership",
+        "biography and testimony",
+        "church",
+        "pastoral care"
+      ],
+      "evidence": {
+        "leadership": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "pastoral care": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5efd5f4e2650d843bed078d4",
+      "title": "37 - Transformed into His Likeness",
+      "themes": [
+        "heart change",
+        "sanctification",
+        "Jesus Christ",
+        "biography and testimony"
+      ],
+      "evidence": {
+        "heart change": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "sanctification": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "Jesus Christ": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "biography and testimony": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5efd5d8253dc6608602cfb1e",
+      "title": "36 - Reflections on the Asian American Experience",
+      "themes": [
+        "biography and testimony",
+        "race and cultural identity",
+        "unity",
+        "leadership",
+        "church",
+        "love"
+      ],
+      "evidence": {
+        "biography and testimony": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "race and cultural identity": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "unity": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "leadership": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "love": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5eb983cf4a67d3004873fd7a",
+      "title": "35 - Real Change Pt. 2 - Heart Change from the Gospel",
+      "themes": [
+        "heart change",
+        "gospel",
+        "discipleship",
+        "marriage",
+        "sanctification"
+      ],
+      "evidence": {
+        "heart change": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "gospel": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "discipleship": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "marriage": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "sanctification": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5eaafe024f2f3e5a01eebd8d",
+      "title": "34 - Real Change Pt. 1 - The Problem of Heat and Thorns",
+      "themes": [
+        "heart change",
+        "sanctification",
+        "suffering",
+        "discipleship",
+        "gospel",
+        "sin and temptation"
+      ],
+      "evidence": {
+        "heart change": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "sanctification": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "suffering": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "discipleship": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "gospel": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "sin and temptation": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5e9a1d4ebf77b042b50c40e0",
+      "title": "33 - The Discipline of Grace in the Christian Life",
+      "themes": [
+        "grace",
+        "spiritual disciplines",
+        "discipleship",
+        "gospel",
+        "sanctification"
+      ],
+      "evidence": {
+        "grace": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "spiritual disciplines": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "discipleship": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "gospel": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "sanctification": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5e90bf9d8f85d4778bce6d75",
+      "title": "32 - Dead to Sin through Union with Christ",
+      "themes": [
+        "sin and temptation",
+        "Jesus Christ",
+        "union with Christ",
+        "gospel",
+        "sanctification",
+        "grace"
+      ],
+      "evidence": {
+        "sin and temptation": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "Jesus Christ": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "union with Christ": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "gospel": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "sanctification": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "grace": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5e8dfaf743d1441c9249d728",
+      "title": "31 - Preaching the Gospel to Yourself",
+      "themes": [
+        "gospel",
+        "preaching",
+        "sanctification",
+        "discipleship"
+      ],
+      "evidence": {
+        "gospel": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "preaching": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "sanctification": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "discipleship": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5e7e7936aff3dd2806a07546",
+      "title": "30 - Stewardship and Giving in the Current Crisis",
+      "themes": [
+        "money and generosity",
+        "church",
+        "discipleship",
+        "hope"
+      ],
+      "evidence": {
+        "money and generosity": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "church": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "discipleship": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "hope": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5e7e77ec5ed80a4219b1e6f0",
+      "title": "29 - Sanctification and the Problem of Self-Righteousness",
+      "themes": [
+        "sanctification",
+        "self-righteousness",
+        "sin and temptation",
+        "discipleship"
+      ],
+      "evidence": {
+        "sanctification": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "self-righteousness": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "sin and temptation": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "discipleship": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5e75430d3558ab3e790080f5",
+      "title": "28 - God's Grace & Our Effort in Sanctification",
+      "themes": [
+        "sanctification",
+        "grace",
+        "gospel",
+        "discipleship",
+        "hope"
+      ],
+      "evidence": {
+        "sanctification": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "grace": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "gospel": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "discipleship": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "hope": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5e5d8348a347fb44ae2b353c",
+      "title": "27 - Unity and Diversity in the Church",
+      "themes": [
+        "unity",
+        "church",
+        "gospel",
+        "race and cultural identity"
+      ],
+      "evidence": {
+        "unity": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "church": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "gospel": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "race and cultural identity": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5e16462c5e13926664f1d1fb",
+      "title": "26 - Confronting the Fear of Man Pt. 2",
+      "themes": [
+        "fear of man",
+        "discipleship",
+        "fear of God"
+      ],
+      "evidence": {
+        "fear of man": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "discipleship": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "fear of God": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5e1644af2efaa65539f2c01d",
+      "title": "25 - Confronting the Fear of Man Pt. 1",
+      "themes": [
+        "fear of man",
+        "discipleship"
+      ],
+      "evidence": {
+        "fear of man": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "discipleship": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5db9a4bfeccc20272c3bc431",
+      "title": "24 - Doctrine of Humanity - Male and Female He Made Them",
+      "themes": [
+        "creation and humanity",
+        "sexuality and gender",
+        "creation",
+        "marriage"
+      ],
+      "evidence": {
+        "creation and humanity": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "sexuality and gender": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "creation": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "marriage": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5db99be12370a55966a701cb",
+      "title": "23 - Doctrine of Humanity - Made in the Image of God",
+      "themes": [
+        "creation and humanity",
+        "creation",
+        "Scripture"
+      ],
+      "evidence": {
+        "creation and humanity": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "creation": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "Scripture": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5d9b6c9c240ecb35cfa1778e",
+      "title": "22 - Singleness & Dating",
+      "themes": [
+        "dating and singleness",
+        "marriage"
+      ],
+      "evidence": {
+        "dating and singleness": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "marriage": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5d7943f91dbee613b38a392e",
+      "title": "21 - What's the deal with Bible translations?",
+      "themes": [
+        "Scripture",
+        "Bible canon and transmission",
+        "Bible translation",
+        "church",
+        "discipleship",
+        "preaching"
+      ],
+      "evidence": {
+        "Scripture": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "Bible canon and transmission": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "Bible translation": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "discipleship": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "preaching": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5d77e36f254f13401a359376",
+      "title": "20 - Angels & Demons",
+      "themes": [
+        "angels and demons",
+        "attributes of God",
+        "Scripture"
+      ],
+      "evidence": {
+        "angels and demons": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "attributes of God": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "Scripture": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5d77e29c46bc494bf9c3d009",
+      "title": "19 - The Doctrine of the Trinity Pt. 2",
+      "themes": [
+        "Trinity",
+        "attributes of God",
+        "gospel"
+      ],
+      "evidence": {
+        "Trinity": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "attributes of God": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "gospel": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5d703cc58ed35000019c20e7",
+      "title": "Pot - How should Christians think about marijuana?",
+      "themes": [
+        "cannabis and substance use",
+        "discipleship"
+      ],
+      "evidence": {
+        "cannabis and substance use": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "discipleship": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5d703f04a7d5db0001b46ce1",
+      "title": "Politics - How should Christians think about government?",
+      "themes": [
+        "Christian political engagement",
+        "politics",
+        "church",
+        "discipleship"
+      ],
+      "evidence": {
+        "Christian political engagement": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "politics": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "church": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "discipleship": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5d7046630736b7000197b97b",
+      "title": "People - What is a culture of discipleship?",
+      "themes": [
+        "discipleship",
+        "church"
+      ],
+      "evidence": {
+        "discipleship": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "church": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5d14ca69e8c6bb000197909f",
+      "title": "18 - Suffering and the Christian Life",
+      "themes": [
+        "suffering",
+        "church",
+        "discipleship"
+      ],
+      "evidence": {
+        "suffering": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "church": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "discipleship": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5d14c8f14669220001257df1",
+      "title": "17 - A Theology of Suffering",
+      "themes": [
+        "suffering",
+        "God's sovereignty and providence",
+        "church",
+        "discipleship",
+        "Scripture"
+      ],
+      "evidence": {
+        "suffering": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "God's sovereignty and providence": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "church": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "discipleship": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "Scripture": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5cf9af9573c722000199f50a",
+      "title": "16 - The Providence of God",
+      "themes": [
+        "God's sovereignty and providence",
+        "evangelism and missions",
+        "prayer",
+        "Scripture",
+        "salvation"
+      ],
+      "evidence": {
+        "God's sovereignty and providence": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "evangelism and missions": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "prayer": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "Scripture": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "salvation": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5cf9aeec60e2ff0001b573aa",
+      "title": "15 - The Doctrine of the Trinity",
+      "themes": [
+        "Trinity",
+        "attributes of God"
+      ],
+      "evidence": {
+        "Trinity": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "attributes of God": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5cf19ea30f58b900010ed233",
+      "title": "14 - Church Leadership: Elder-led Congregationalism",
+      "themes": [
+        "church",
+        "leadership",
+        "church governance",
+        "church life"
+      ],
+      "evidence": {
+        "church": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "leadership": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "church governance": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "church life": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5cf19cbc0f58b900010eb9ff",
+      "title": "13 - Membership, Baptism, and the Lord's Supper",
+      "themes": [
+        "church",
+        "Lord's Supper",
+        "baptism",
+        "church membership",
+        "church life"
+      ],
+      "evidence": {
+        "church": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "Lord's Supper": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "baptism": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "church membership": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "church life": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5cc2415a3ff35e0001019506",
+      "title": "12 - Worship and Congregational Singing",
+      "themes": [
+        "church",
+        "congregational singing and hymns",
+        "worship",
+        "discipleship",
+        "gospel"
+      ],
+      "evidence": {
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "congregational singing and hymns": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "worship": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "discipleship": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "gospel": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5cc23ff04e17b643f6b4f7db",
+      "title": "11 - Worship and the Christian Life",
+      "themes": [
+        "worship",
+        "church",
+        "discipleship"
+      ],
+      "evidence": {
+        "worship": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "church": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "discipleship": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5cad264d419202c7fd0931ab",
+      "title": "9 - The Attributes of God (Pt. 1)",
+      "themes": [
+        "attributes of God",
+        "God's sovereignty and providence"
+      ],
+      "evidence": {
+        "attributes of God": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "God's sovereignty and providence": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5cad2c4071c10bc1643b52fb",
+      "title": "10 - The Attributes of God (Pt. 2)",
+      "themes": [
+        "attributes of God",
+        "holiness",
+        "love",
+        "perseverance",
+        "wisdom"
+      ],
+      "evidence": {
+        "attributes of God": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        },
+        "holiness": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "love": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "perseverance": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "wisdom": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5c86a0a57817f7389c36544b",
+      "title": "Overview of the 9Marks",
+      "themes": [
+        "church partnerships"
+      ],
+      "evidence": {
+        "church partnerships": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5c86a796f4e1fcdb2f3914e1",
+      "title": "Doctrine for Worship",
+      "themes": [
+        "worship",
+        "church partnerships"
+      ],
+      "evidence": {
+        "worship": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "church partnerships": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5c86a427f4e1fcdb2f38e3b7",
+      "title": "Doctrine for Leadership",
+      "themes": [
+        "leadership",
+        "church partnerships"
+      ],
+      "evidence": {
+        "leadership": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "church partnerships": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5c86a946fa0d603fe9fcaf6c",
+      "title": "Doctrine for Evangelism",
+      "themes": [
+        "evangelism and missions",
+        "church partnerships"
+      ],
+      "evidence": {
+        "evangelism and missions": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "church partnerships": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5c86a8baee6eb0713b748510",
+      "title": "Doctrine for Community",
+      "themes": [
+        "community and belonging",
+        "church partnerships"
+      ],
+      "evidence": {
+        "community and belonging": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "church partnerships": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5c86a1f54785d3869893d151",
+      "title": "Biblical Theology Preached",
+      "themes": [
+        "biblical theology",
+        "preaching",
+        "church partnerships"
+      ],
+      "evidence": {
+        "biblical theology": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "preaching": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "church partnerships": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5c86a167e5e5f08439c2950c",
+      "title": "Biblical Theology Practiced",
+      "themes": [
+        "biblical theology",
+        "church partnerships"
+      ],
+      "evidence": {
+        "biblical theology": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "church partnerships": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5c837bfb4e17b67945641c48",
+      "title": "Biblical Theology Needed",
+      "themes": [
+        "biblical theology",
+        "church partnerships"
+      ],
+      "evidence": {
+        "biblical theology": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "church partnerships": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5c86a2fc971a1811cf7d5dec",
+      "title": "Biblical Theology Lived",
+      "themes": [
+        "biblical theology",
+        "church partnerships"
+      ],
+      "evidence": {
+        "biblical theology": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "church partnerships": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5c81bcbd6e9a7f210e7d8193",
+      "title": "8 - Finding God's Will (pt. 2)",
+      "themes": [
+        "Christian decision-making",
+        "Scripture",
+        "prayer",
+        "discipleship",
+        "wisdom",
+        "counseling",
+        "hope"
+      ],
+      "evidence": {
+        "Christian decision-making": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "Scripture": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "prayer": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "discipleship": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "wisdom": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "counseling": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        },
+        "hope": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5c81ba5ae4966bf64be68fb6",
+      "title": "7 - Finding God's Will (pt. 1)",
+      "themes": [
+        "Christian decision-making",
+        "God's sovereignty and providence",
+        "discipleship"
+      ],
+      "evidence": {
+        "Christian decision-making": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "God's sovereignty and providence": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "discipleship": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5c788e428165f506c29c17d6",
+      "title": "6 - The Independence and Immutability of God",
+      "themes": [
+        "attributes of God",
+        "Scripture"
+      ],
+      "evidence": {
+        "attributes of God": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "Scripture": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5c788c41ee6eb010d9b11dbf",
+      "title": "5 - The Existence and Knowability of God",
+      "themes": [
+        "attributes of God"
+      ],
+      "evidence": {
+        "attributes of God": {
+          "title": true,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5c630a9c971a184db3d260e5",
+      "title": "Following Jesus (pt. 2)",
+      "themes": [
+        "discipleship",
+        "Jesus Christ",
+        "church",
+        "prayer",
+        "Scripture",
+        "evangelism and missions",
+        "gospel"
+      ],
+      "evidence": {
+        "discipleship": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "Jesus Christ": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "church": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "prayer": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "Scripture": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "evangelism and missions": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        },
+        "gospel": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5c6306c824a694c8fa93e36d",
+      "title": "Following Jesus (pt. 1)",
+      "themes": [
+        "discipleship",
+        "Jesus Christ",
+        "gospel"
+      ],
+      "evidence": {
+        "discipleship": {
+          "title": true,
+          "notes": true,
+          "publisherTags": true
+        },
+        "Jesus Christ": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false
+        },
+        "gospel": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5c566366e5e5f07d5d26708a",
+      "title": "4 - Clarity Illumination",
+      "themes": [
+        "Scripture",
+        "Bible canon and transmission"
+      ],
+      "evidence": {
+        "Scripture": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "Bible canon and transmission": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5c56626e71c10bb86409d9c8",
+      "title": "3 - Necessity Sufficiency",
+      "themes": [
+        "Scripture",
+        "Bible canon and transmission",
+        "evangelism and missions"
+      ],
+      "evidence": {
+        "Scripture": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "Bible canon and transmission": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "evangelism and missions": {
+          "title": false,
+          "notes": false,
+          "publisherTags": true
+        }
+      }
+    },
+    {
+      "id": "5c5660afe2c483c7b0758bfd",
+      "title": "2 - Authority Inerrancy",
+      "themes": [
+        "Scripture",
+        "Bible canon and transmission",
+        "confessions and statements of faith"
+      ],
+      "evidence": {
+        "Scripture": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "Bible canon and transmission": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "confessions and statements of faith": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    },
+    {
+      "id": "5c565f37971a1875f2c132c5",
+      "title": "1 - Inspiration Canon",
+      "themes": [
+        "Bible canon and transmission",
+        "Scripture",
+        "discipleship"
+      ],
+      "evidence": {
+        "Bible canon and transmission": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false
+        },
+        "Scripture": {
+          "title": false,
+          "notes": true,
+          "publisherTags": true
+        },
+        "discipleship": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false
+        }
+      }
+    }
+  ]
+}

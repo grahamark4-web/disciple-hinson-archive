@@ -6,9 +6,9 @@
     "worried"
   ],
   "peace": [
-    "peace",
-    "rest",
-    "restless"
+    "peace with god",
+    "peace of god",
+    "rest in god"
   ],
   "suffering": [
     "suffering",
@@ -37,10 +37,9 @@
     "intercession"
   ],
   "faith": [
-    "faith",
-    "trust",
-    "believe",
-    "belief",
+    "trust in god",
+    "believing god",
+    "living by faith",
     "unbelief",
     "doubt"
   ],
@@ -137,9 +136,7 @@
   ],
   "contentment": [
     "contentment",
-    "content",
     "covet",
-    "covetous",
     "greed"
   ],
   "money and generosity": [
@@ -161,13 +158,12 @@
   ],
   "parenting and family": [
     "parenting",
+    "parenthood",
     "parents",
-    "parent",
-    "fatherhood",
+    "raising children",
     "motherhood",
-    "family",
-    "families",
-    "raising children"
+    "fatherhood",
+    "family life"
   ],
   "friendship": [
     "friendship",
@@ -197,11 +193,9 @@
     "deacons"
   ],
   "service": [
-    "service",
-    "serve",
-    "serving",
-    "servant",
-    "spiritual gifts"
+    "serving the church",
+    "serving others",
+    "servant ministry"
   ],
   "worship": [
     "worship",
@@ -346,8 +340,10 @@
     "workplace",
     "vocation",
     "employment",
-    "labor",
-    "labour"
+    "career",
+    "work ethic",
+    "our work",
+    "on work"
   ],
   "speech": [
     "gossip",
@@ -371,12 +367,14 @@
   ],
   "biography and testimony": [
     "get to know",
-    "get to know an elder",
-    "get to know a member",
     "interview",
     "testimony",
-    "pastoral residents",
-    "pastoral interns"
+    "life story",
+    "her life",
+    "his life",
+    "reflections",
+    "farewell",
+    "interviews"
   ],
   "counseling": [
     "counseling",
@@ -401,5 +399,380 @@
     "political",
     "government",
     "israel & palestine"
+  ],
+  "mental health": [
+    "mental illness",
+    "mentally ill",
+    "mental health",
+    "mental wellbeing",
+    "mental well-being",
+    "ocd",
+    "obsessive-compulsive",
+    "depression"
+  ],
+  "OCD": [
+    "ocd",
+    "obsessive compulsive",
+    "obsessive-compulsive",
+    "intrusive thoughts",
+    "compulsions"
+  ],
+  "death and end-of-life care": [
+    "end of life",
+    "end-of-life",
+    "death",
+    "dying",
+    "hospice",
+    "palliative care"
+  ],
+  "chronic illness": [
+    "chronic illness",
+    "chronic pain",
+    "long-term illness"
+  ],
+  "disability and special needs": [
+    "disability",
+    "disabilities",
+    "special needs",
+    "elisha foundation"
+  ],
+  "fear of man": [
+    "fear of man",
+    "people pleasing",
+    "people-pleasing",
+    "approval of others"
+  ],
+  "fear of God": [
+    "fear of god",
+    "reverence",
+    "reverent"
+  ],
+  "church history": [
+    "church history",
+    "spurgeon",
+    "spurgeon's",
+    "reformation",
+    "adoniram judson"
+  ],
+  "biblical theology": [
+    "biblical theology",
+    "christ in the old testament",
+    "christ in the torah",
+    "christ in the prophets",
+    "christ in the psalms",
+    "redemptive history"
+  ],
+  "Bible canon and transmission": [
+    "canon",
+    "inspiration",
+    "inerrancy",
+    "illumination",
+    "bible translations",
+    "how did we get the new testament",
+    "how did we get the old testament",
+    "necessity sufficiency",
+    "authority inerrancy"
+  ],
+  "Bible translation": [
+    "bible translations",
+    "bible translation",
+    "translating the bible"
+  ],
+  "preaching": [
+    "preaching",
+    "preached",
+    "preach",
+    "sermon preparation",
+    "simeon trust"
+  ],
+  "attributes of God": [
+    "attributes of god",
+    "doctrine of god",
+    "independence and immutability",
+    "existence and knowability",
+    "self-existent",
+    "unchanging",
+    "omnis"
+  ],
+  "incarnation and virgin birth": [
+    "incarnation",
+    "virgin birth",
+    "god became man"
+  ],
+  "angels and demons": [
+    "angels",
+    "demons",
+    "spiritual warfare"
+  ],
+  "union with Christ": [
+    "union with christ",
+    "united to christ"
+  ],
+  "law and gospel": [
+    "law and the gospel",
+    "law and gospel"
+  ],
+  "election and predestination": [
+    "election",
+    "predestination",
+    "god's purpose of grace"
+  ],
+  "regeneration": [
+    "regeneration",
+    "new birth",
+    "born again"
+  ],
+  "eternal judgment": [
+    "righteous and the wicked",
+    "hell",
+    "eternal punishment"
+  ],
+  "creation and humanity": [
+    "doctrine of humanity",
+    "of humanity",
+    "image of god",
+    "male and female",
+    "human nature"
+  ],
+  "revelation and last things": [
+    "on revelation",
+    "world to come",
+    "eschatology",
+    "end times",
+    "last things"
+  ],
+  "Sabbath and Sunday": [
+    "lord's day",
+    "sabbath",
+    "sunday worship"
+  ],
+  "congregational singing and hymns": [
+    "hymnals",
+    "hymns",
+    "singing the word",
+    "congregational singing"
+  ],
+  "liturgy": [
+    "liturgy",
+    "order of worship"
+  ],
+  "missions strategy": [
+    "missions strategy",
+    "missions mobilization",
+    "gospel infrastructure",
+    "fellow workers",
+    "global interns",
+    "global worker",
+    "ministry update",
+    "rileys on erbil"
+  ],
+  "cross-cultural ministry": [
+    "cross-cultural",
+    "erbil",
+    "iraq",
+    "matsuokas",
+    "rileys",
+    "missions",
+    "international ministries",
+    "global worker",
+    "global interns"
+  ],
+  "women in ministry": [
+    "women in missions",
+    "women's ministry",
+    "women in ministry"
+  ],
+  "pastoral training": [
+    "pastoral interns",
+    "pastoral internship",
+    "pastoral residents",
+    "pastoral residency",
+    "resident class",
+    "seminarian",
+    "seminary",
+    "simeon trust",
+    "pastoral resident"
+  ],
+  "pastoral care": [
+    "caring for clergy",
+    "pastoral ministry",
+    "staff pastor",
+    "pastoral assistant",
+    "associate pastor",
+    "pastor candidate"
+  ],
+  "church membership": [
+    "church membership",
+    "non-attending members",
+    "membership",
+    "what is a church",
+    "gospel church"
+  ],
+  "church governance": [
+    "congregationalism",
+    "bylaws",
+    "authority at hinson",
+    "church covenant",
+    "elder priorities",
+    "church leadership"
+  ],
+  "deacons": [
+    "deacons",
+    "deacon"
+  ],
+  "small groups": [
+    "small groups",
+    "small group"
+  ],
+  "church partnerships": [
+    "church associations",
+    "9marks",
+    "9 marks",
+    "interdependence",
+    "fellow workers"
+  ],
+  "church facilities": [
+    "church properties",
+    "church facilities",
+    "church buildings"
+  ],
+  "children's ministry": [
+    "children's ministry",
+    "hinson kids",
+    "child safety",
+    "safety training"
+  ],
+  "education and schooling": [
+    "schooling",
+    "homeschooling",
+    "school choices",
+    "education"
+  ],
+  "dating and singleness": [
+    "dating",
+    "singleness",
+    "single christian"
+  ],
+  "sexuality and gender": [
+    "sexuality",
+    "complementarianism",
+    "headship",
+    "submission",
+    "male and female"
+  ],
+  "accountability": [
+    "accountability",
+    "watchfulness",
+    "dependent discipline",
+    "dependence & discipline"
+  ],
+  "spiritual disciplines": [
+    "spiritual discipline",
+    "dependent discipline",
+    "dependence & discipline",
+    "godly choices"
+  ],
+  "race and cultural identity": [
+    "race",
+    "racial",
+    "racism",
+    "culture over color",
+    "cultural identity",
+    "asian american",
+    "unity in diversity",
+    "unity and diversity"
+  ],
+  "community and belonging": [
+    "community",
+    "hospitality",
+    "friendship",
+    "interdependence",
+    "small groups"
+  ],
+  "abortion and sanctity of life": [
+    "abortion",
+    "sanctity of human life",
+    "pro-life",
+    "pro-choice",
+    "first image"
+  ],
+  "cannabis and substance use": [
+    "marijuana",
+    "cannabis",
+    "substance use",
+    "addiction"
+  ],
+  "retirement": [
+    "retirement",
+    "retiring"
+  ],
+  "rhetoric and communication": [
+    "rhetoric",
+    "communication"
+  ],
+  "Christian decision-making": [
+    "finding god's will",
+    "decisions",
+    "decision making",
+    "decision-making"
+  ],
+  "self-righteousness": [
+    "self-righteousness",
+    "self righteousness"
+  ],
+  "heart change": [
+    "heart change",
+    "real change",
+    "heat and thorns",
+    "transformed into his likeness"
+  ],
+  "Christian commitment": [
+    "on commitment",
+    "commitment",
+    "leaving well"
+  ],
+  "Christian political engagement": [
+    "political engagement",
+    "politics",
+    "civil government",
+    "government"
+  ],
+  "Israel and Palestine": [
+    "israel & palestine",
+    "israel and palestine"
+  ],
+  "gaming and social media": [
+    "video games",
+    "donkey kong",
+    "twitch",
+    "social media",
+    "on meta"
+  ],
+  "artificial intelligence": [
+    "on ai",
+    "artificial intelligence"
+  ],
+  "gospel": [
+    "what is the gospel",
+    "preaching the gospel to yourself",
+    "gospel infrastructure"
+  ],
+  "spiritual gifts": [
+    "spiritual gifts",
+    "pentecost",
+    "cessationism",
+    "continuationism"
+  ],
+  "confessions and statements of faith": [
+    "statement of faith",
+    "confession of faith",
+    "doctrinal statement"
+  ],
+  "church transitions": [
+    "on leaving",
+    "upcoming transition",
+    "leaving well",
+    "farewell",
+    "the return of davey walker"
   ]
 }
