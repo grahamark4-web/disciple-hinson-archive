@@ -1,0 +1,242 @@
+/* Hinson's hosted font faces: Calluna body text and Adobe Garamond headings. */
+@font-face{font-family:calluna;src:url('https://use.typekit.net/af/428704/00000000000000007735d9f7/31/l?subset_id=2&fvd=n4&v=3') format('woff2');font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:calluna;src:url('https://use.typekit.net/af/4d2e44/00000000000000007735da0f/31/l?subset_id=2&fvd=n7&v=3') format('woff2');font-weight:700;font-style:normal;font-display:swap}
+@font-face{font-family:adobe-garamond-pro;src:url('https://use.typekit.net/af/1a756d/00000000000000007735d927/31/l?subset_id=2&fvd=n4&v=3') format('woff2');font-weight:400;font-style:normal;font-display:swap}
+@font-face{font-family:proxima-nova;src:url('https://use.typekit.net/af/e37e5a/00000000000000007735e60d/31/l?subset_id=2&fvd=n6&v=3') format('woff2');font-weight:600;font-style:normal;font-display:swap}
+:root{color-scheme:light;--ink:rgba(26,26,26,.89);--muted:#686868;--accent:#1a1a1a;--gold:#fccd10;--paper:#fff;--line:#e3e3e3;--body-font:calluna,Georgia,serif;--heading-font:adobe-garamond-pro,Georgia,serif}
+*{box-sizing:border-box}
+body{margin:0;background:var(--paper);color:var(--ink);font:17px/1.6 var(--body-font)}
+main{max-width:1140px;margin:auto;padding:24px 36px 20px}
+a{color:var(--accent);text-underline-offset:3px}
+header{text-align:center;padding:0 0 28px}
+h1{font:400 clamp(36px,5vw,43px)/1.2 var(--heading-font);color:rgba(26,26,26,.9);margin:0}
+.intro{color:var(--muted);margin:12px 0 0}
+.search-panel{background:#fff;border:1px solid var(--line);padding:27px;border-radius:2px}
+label{display:block;font-size:14px;font-weight:700;margin-bottom:7px}
+.search-row{display:flex;gap:12px}
+input,select,button{font:inherit;min-height:46px;border:1px solid #b9b9b9;border-radius:2px}
+input,select{background:#fff;color:var(--ink);padding:10px 12px;width:100%}
+input{font-size:17px}
+button{font-family:proxima-nova,Arial,sans-serif;font-weight:600;background:var(--accent);color:#fff;border-color:var(--accent);padding:10px 20px;cursor:pointer;white-space:nowrap;transition:background-color .15s}
+button:hover{background:#404040;border-color:#404040}
+button:disabled{opacity:.6}
+.hint{font-size:14px;color:var(--muted);margin:9px 0 22px}
+.filters{display:grid;grid-template-columns:repeat(4,1fr);gap:15px}
+.results-bar{display:flex;justify-content:space-between;align-items:center;gap:16px;margin:27px 0 12px;font-size:15px}
+.results-bar #status{font-weight:700}
+#updated{font-size:13px;color:var(--muted)}
+.sermon{border-top:1px solid var(--line);padding:24px 0;display:grid;grid-template-columns:120px 1fr;gap:22px}
+.date{font-size:14px;color:var(--muted);padding-top:4px}
+h2{font:400 28px/1.2 var(--heading-font);color:rgba(26,26,26,.9);margin:0 0 9px}
+.meta{font-size:15px;color:var(--muted);margin:0 0 12px}
+.passage{color:var(--ink);font-weight:400}
+.actions{display:flex;gap:12px;align-items:center;flex-wrap:wrap}
+.actions a{font-size:14px}
+.play{-webkit-appearance:none;appearance:none;display:inline-flex;align-items:center;justify-content:center;gap:8px;min-height:44px;font-size:14px;line-height:1;padding:9px 14px;background:#fff;color:var(--ink);border:1px solid #b9b9b9;border-radius:3px}.play:hover,.play[aria-pressed="true"]{background:#f3f3f3;border-color:#999}.play svg{display:block;flex:none}.platform-link{display:inline-flex;align-items:center;min-height:44px;padding:6px 10px;border:1px solid var(--line);border-radius:3px;text-decoration:none}.platform-link:hover{background:#f5f5f5}.podcast-subscribe{display:flex;justify-content:center;flex-wrap:wrap;gap:10px;margin:16px 0 0;font-size:14px}.platform-note{font-size:13px;color:var(--muted);margin:8px 0 0}
+.audio-wrap{margin-top:14px}
+audio{width:min(100%,620px);display:block}
+.notice{font-size:14px;color:var(--muted);margin:8px 0}
+.empty{text-align:center;border:1px dashed var(--line);padding:40px 18px;color:var(--muted)}
+#more{display:block;margin:24px auto}
+#more[hidden]{display:none}
+footer{text-align:center;color:var(--muted);font-size:13px;padding:38px 10px}
+footer a{display:inline-block;margin-top:10px}
+:focus-visible{outline:2px solid var(--accent);outline-offset:3px}
+@media(max-width:700px){main{padding:20px 18px}.search-panel{padding:18px}.filters{grid-template-columns:1fr 1fr}.search-row{flex-direction:column}.search-row button{align-self:flex-start}.sermon{grid-template-columns:1fr;gap:5px}h2{font-size:25px}.results-bar{align-items:flex-start;flex-direction:column;gap:0}header{padding-bottom:24px}}
+
+/* Compact logo buttons for the podcast links at the top of the archive. */
+.podcast-subscribe{gap:8px;margin-top:12px}.subscribe-logo{display:inline-flex;align-items:center;justify-content:center;width:40px;height:40px;background:#fff;border:1px solid var(--line);border-radius:6px;text-decoration:none}.subscribe-logo:hover{background:#f5f5f5;border-color:#bbb}.subscribe-logo img{display:block;width:24px;height:24px}.subscribe-logo:focus-visible{outline:2px solid var(--accent);outline-offset:3px}@media(pointer:coarse){.subscribe-logo{width:44px;height:44px}}
+
+/* Archive UX refinement: primary listening, quieter controls, compact header. */
+[hidden]{display:none!important}
+header{padding-bottom:20px}.intro{margin-top:8px}
+.search-panel{padding:24px}.hint{margin-bottom:16px}
+#clear{background:transparent;color:var(--muted);border-color:transparent;padding:8px;text-decoration:underline}
+#clear:hover{color:var(--ink);background:#f5f5f5}
+.filters{grid-template-columns:repeat(3,1fr)}
+.filter-disclosure summary{display:none}
+.results-bar{margin-top:20px}
+.sort-control{display:flex;align-items:center;gap:8px}
+.sort-control label{margin:0;color:var(--muted);font-weight:400}
+.sort-control select{width:auto;min-height:40px;padding:6px 10px;font-size:14px}
+.sermon-title{text-decoration:none;color:inherit}
+.sermon{padding:22px 0}
+.meta{margin-bottom:8px}.actions{margin-top:12px;gap:10px}
+.play{background:var(--accent);color:#fff;border-color:var(--accent)}
+.play:hover,.play[aria-pressed="true"]{background:#404040;color:#fff;border-color:#404040}
+.platform-link{border-color:transparent;padding:8px;color:var(--muted)}
+.platform-link:hover{color:var(--ink);border-color:var(--line)}
+.audio-options{position:relative;font-size:14px;color:var(--muted)}
+.audio-options summary{cursor:pointer;padding:10px 4px}
+.audio-options a{display:block;padding:10px;background:#fff;border:1px solid var(--line)}
+footer{padding-top:24px}footer #updated{margin:0 0 8px}
+.embedded header h1,.embedded header .intro{display:none}
+.embedded header{padding-bottom:16px}.embedded .podcast-subscribe{margin-top:0}
+@media(max-width:700px){
+ main{padding:16px}.search-panel{padding:16px}
+ .search-row{gap:4px}.hint{margin-bottom:12px}
+ .filter-disclosure summary{display:list-item;font-size:14px;cursor:pointer;padding:10px 0}
+ .filter-disclosure[open] summary{margin-bottom:8px}
+ .filters{grid-template-columns:1fr;gap:12px}
+ .results-bar{flex-direction:row;align-items:center;gap:8px;font-size:13px}
+ .sort-control label{display:none}.sort-control select{max-width:140px}
+ .sermon{padding:20px 0;gap:6px}.actions{gap:6px}
+ .platform-link{padding:8px 6px}h2{margin-bottom:8px}
+ header{padding-bottom:16px}
+}
+
+.filter-disclosure{margin-top:16px}
+
+/* Hinson archive gold, with dark text for readable search matches. */
+.search-highlight{background:var(--gold);color:#1a1a1a;padding:0 .08em;border-radius:2px;box-decoration-break:clone;-webkit-box-decoration-break:clone}
+
+@media(min-width:701px){.filters{grid-template-columns:repeat(4,minmax(0,1fr))}.filters select{min-width:0}}
+
+/* Overlay the audio menu without changing the sermon row height. */
+.audio-options{position:relative}
+.audio-options[open]{z-index:10}
+.audio-options a{position:absolute;left:0;width:170px;background:#fff;box-shadow:0 5px 12px rgba(0,0,0,.1)}
+.audio-options a:nth-of-type(1){top:100%;border-radius:3px 3px 0 0}
+.audio-options a:nth-of-type(2){top:calc(100% + 44px);border-radius:0 0 3px 3px}
+.audio-options a{height:44px;display:flex;align-items:center;padding:10px 12px}
+.audio-options a:hover{background:#f5f5f5}
+@media(max-width:700px){.actions{position:relative}.audio-options{position:static}.audio-options a{left:0;right:auto}}
+
+/* Timestamped transcript search excerpts. */
+.transcript-status{font-size:13px;color:var(--muted);margin:9px 0 0}
+.transcript-matches{margin-top:16px;border-left:3px solid var(--gold);padding-left:14px;max-width:760px}
+.transcript-label{font-size:12px;color:var(--muted);margin:0 0 8px}
+.transcript-excerpt{margin:0 0 12px}.transcript-excerpt p{font-size:15px;line-height:1.5;margin:0 0 5px}
+.timestamp{background:transparent;color:var(--ink);border-color:var(--line);font-size:13px;padding:6px 10px;min-height:44px}
+.timestamp:hover{background:#fff7d6;color:var(--ink);border-color:#dcc269}
+
+/* Clear boundaries between controls, result navigation, sermons and excerpts. */
+.search-panel{background:#f6f6f4;border-color:#deded9;border-radius:6px}
+.results-bar{margin:30px 0 18px;padding:0 0 14px;border-bottom:1px solid #d8d8d3}
+.results-bar #status{margin:0}
+.sermon{background:#fff;border:1px solid #deded9;border-radius:6px;padding:24px;margin:0 0 16px;position:relative;overflow:visible}
+.sermon:has(.audio-options[open]){z-index:10}
+.transcript-matches{background:#fffaf0;border-left:3px solid var(--gold);border-radius:0 4px 4px 0;padding:14px 16px;margin-top:18px}
+.transcript-excerpt:last-child{margin-bottom:0}
+@media(max-width:700px){
+ .results-bar{margin-top:24px;gap:12px}
+ .results-bar #status{max-width:60%}
+ .sermon{padding:18px 16px;margin-bottom:14px}
+ .transcript-matches{padding:12px;margin-top:16px}
+}
+
+/* Consistent controls with Hinson typography and restrained gold accents. */
+input,select{border-radius:5px;border-color:#c9c9c3}
+input:focus,select:focus{border-color:#777}
+button,.platform-link,.options-toggle{transition:background-color .15s,border-color .15s,color .15s}
+.play{border-radius:5px;min-height:44px;padding:10px 16px}
+.actions{gap:8px}
+.platform-link{width:44px;height:44px;padding:0;justify-content:center;border:1px solid #deded9;border-radius:5px;background:#fff}
+.platform-link img{display:block;width:20px;height:20px}
+.platform-link:hover{background:#f6f6f4;border-color:#aaa}
+.audio-options summary.options-toggle{display:flex;align-items:center;justify-content:center;width:44px;height:44px;padding:0;border:1px solid #deded9;border-radius:5px;list-style:none;color:#555}
+.audio-options summary::-webkit-details-marker{display:none}
+.options-toggle:hover,.audio-options[open] .options-toggle{background:#f6f6f4;border-color:#aaa}
+.audio-options a{text-decoration:none}
+.audio-options a:hover{text-decoration:underline}
+.timestamp{display:inline-flex;align-items:center;gap:7px;border-radius:5px;background:#fff4cd;border-color:#e7d696;font-variant-numeric:tabular-nums}
+.timestamp:hover{background:#ffebaa;border-color:#c4aa53}
+.date{font-size:13px}
+.sermon h2{margin-bottom:10px}
+@media(prefers-reduced-motion:reduce){button,.platform-link,.options-toggle{transition:none}}
+
+/* Optional transcript search, with a native accessible switch. */
+.search-settings{display:flex;align-items:center;flex-wrap:wrap;gap:8px 18px;margin-top:8px}
+.search-settings .transcript-status{margin:0}
+.transcript-toggle{display:inline-flex;align-items:center;gap:9px;min-height:44px;margin:0;font-size:14px;font-weight:400;cursor:pointer}
+.transcript-toggle input{appearance:none;-webkit-appearance:none;position:relative;flex:none;width:38px;height:22px;min-height:0;padding:0;margin:0;border:1px solid #aaa;border-radius:12px;background:#deded9;cursor:pointer;transition:background-color .18s ease,border-color .18s ease}
+.transcript-toggle input::before{content:'';position:absolute;left:3px;top:3px;width:14px;height:14px;border-radius:50%;background:#fff;box-shadow:0 1px 2px rgba(0,0,0,.2);transform:translateX(0);transition:transform .18s ease,background-color .18s ease}
+.transcript-toggle input:checked{background:var(--gold);border-color:#b79d34}
+.transcript-toggle input:checked::before{transform:translateX(16px);background:#1a1a1a}
+@media(max-width:700px){.search-settings{gap:0}.search-settings .transcript-status{flex-basis:100%;margin-bottom:4px}}
+
+@media(prefers-reduced-motion:reduce){.transcript-toggle input,.transcript-toggle input::before{transition:none}}
+
+/* Keep mobile controls still as transcript status changes. */
+@media(max-width:700px){.search-settings .transcript-status{min-height:3.2em;line-height:1.6}}
+
+/* Light tactile depth for the primary listening and search controls. */
+.play{background:linear-gradient(#303030,#1a1a1a);border-color:#161616;box-shadow:inset 0 1px 0 rgba(255,255,255,.15),0 2px 3px rgba(0,0,0,.12);transition:background-color .15s,border-color .15s,color .15s,box-shadow .15s,transform .1s}
+.play:hover{background:linear-gradient(#414141,#2b2b2b);box-shadow:inset 0 1px 0 rgba(255,255,255,.18),0 2px 4px rgba(0,0,0,.15)}
+.play:active{transform:translateY(1px);box-shadow:inset 0 1px 2px rgba(0,0,0,.3),0 1px 1px rgba(0,0,0,.08)}
+.play[aria-pressed="true"]{background:linear-gradient(#292929,#353535);box-shadow:inset 0 1px 2px rgba(0,0,0,.25),0 1px 2px rgba(0,0,0,.08)}
+#query{box-shadow:inset 0 1px 3px rgba(26,26,26,.08),0 1px 0 rgba(255,255,255,.75)}
+.transcript-toggle input{box-shadow:inset 0 1px 2px rgba(0,0,0,.14),0 1px 0 rgba(255,255,255,.8)}
+.transcript-toggle input::before{background:linear-gradient(#fff,#f1f1ed);box-shadow:inset 0 1px 0 rgba(255,255,255,.8),0 1px 2px rgba(0,0,0,.28)}
+.transcript-toggle input:checked::before{background:linear-gradient(#393939,#1a1a1a);box-shadow:inset 0 1px 0 rgba(255,255,255,.2),0 1px 2px rgba(0,0,0,.25)}
+@media(prefers-reduced-motion:reduce){.play{transition:none}.play:active{transform:none}}
+
+/* Short, purposeful motion for disclosure and newly loaded content. */
+@keyframes menu-reveal{from{opacity:0;transform:translateY(-4px)}to{opacity:1;transform:translateY(0)}}
+.audio-options[open] a{animation:menu-reveal .14s ease-out}
+@keyframes player-reveal{from{grid-template-rows:0fr;opacity:0}to{grid-template-rows:1fr;opacity:1}}
+.audio-wrap{display:grid;grid-template-rows:1fr;animation:player-reveal .2s ease-out}
+.audio-content{min-height:0;overflow:hidden}
+@keyframes result-reveal{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:translateY(0)}}
+.sermon[data-enter="true"]{animation:result-reveal .18s ease-out}
+@media(prefers-reduced-motion:reduce){.audio-options[open] a,.audio-wrap,.sermon[data-enter="true"]{animation:none}}
+
+/* Interaction refinements: quiet feedback, useful disclosures and one player. */
+.search-input-wrap{position:relative;flex:1;min-width:0;width:100%}
+.search-input-wrap::after{content:'';position:absolute;right:15px;top:calc(50% - 8px);width:16px;height:16px;border:2px solid #d8d8d1;border-top-color:#1a1a1a;border-radius:50%;opacity:0;pointer-events:none;transition:opacity .15s}
+.search-panel[data-searching="true"] .search-input-wrap::after{opacity:1;animation:search-spin .75s linear infinite}
+.search-panel[data-searching="true"] #query{padding-right:42px}
+@keyframes search-spin{to{transform:rotate(360deg)}}
+.filter-chevron{display:none}
+.share-button,.read-more{background:#fff;color:var(--ink);border:1px solid #deded9;border-radius:5px;font-size:13px;padding:8px 12px;min-height:44px}
+.share-button:hover,.read-more:hover{background:#fff4cd;color:var(--ink);border-color:#c4aa53}
+.share-button[data-copied="true"]{background:#fff4cd;border-color:#c4aa53;animation:result-reveal .15s ease-out}
+.transcript-actions{display:flex;align-items:center;flex-wrap:wrap;gap:8px;margin-top:8px}
+.transcript-actions>button{display:inline-flex;align-items:center;justify-content:center;margin:0;min-height:44px;white-space:nowrap}
+.mini-player{position:fixed;z-index:100;bottom:16px;left:50%;transform:translateX(-50%);width:min(1044px,calc(100% - 32px));display:grid;grid-template-columns:minmax(100px,1fr) auto minmax(160px,1.4fr) auto;align-items:center;gap:18px;background:#fffffff5;border:1px solid #d4d4cd;border-radius:12px;box-shadow:0 4px 24px rgba(0,0,0,.12);padding:10px 14px;animation:mini-reveal .18s ease-out}
+@keyframes mini-reveal{from{opacity:0;translate:0 8px}to{opacity:1;translate:0 0}}
+.player-progress-track{display:none}#player-progress{width:0}
+.player-heading{min-width:0}
+#player-title{font:400 19px/1.2 var(--heading-font);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;margin:0}
+.player-controls,.player-utilities{display:flex;align-items:center;gap:2px}
+.player-controls button,#player-close{display:grid;place-items:center;width:44px;height:44px;min-height:44px;padding:0;border:0;border-radius:50%;background:transparent;color:var(--ink);box-shadow:none;transition:background .15s,transform .15s}
+.player-controls button:hover,#player-close:hover{background:#efefea}
+.player-controls button:active,#player-close:active{transform:scale(.94)}
+.player-controls svg{width:32px;height:32px}
+#player-toggle{background:var(--gold);color:#1a1a1a;margin:0 4px;box-shadow:0 1px 3px #00000016}
+#player-toggle:hover{background:#f4c000}#player-toggle svg{width:23px;height:23px;fill:currentColor}
+#player-close{font:25px/1 Arial,sans-serif;color:var(--muted)}
+.player-timeline{display:flex;align-items:center;gap:10px;min-width:0}
+#player-seek{flex:1;min-width:40px;width:100%;min-height:32px;height:32px;padding:0;margin:0;border:0;background:transparent;box-shadow:none;accent-color:#9a7800;cursor:pointer}
+#player-time{font:12px proxima-nova,Arial,sans-serif;font-variant-numeric:tabular-nums;white-space:nowrap;color:var(--muted)}
+#player-notice{grid-column:1/-1;margin:0;font-size:13px;color:var(--muted)}
+#player-notice:empty{display:none}#archive-audio{display:none}
+.has-player main{padding-bottom:110px}
+@media(max-width:900px){.mini-player{gap:8px;grid-template-columns:minmax(70px,1fr) auto minmax(100px,1fr) auto}.player-timeline{flex-direction:column;gap:0;align-items:stretch}#player-time{text-align:center}}
+@media(max-width:700px){
+ .filter-disclosure summary{display:flex;align-items:center;justify-content:space-between;list-style:none}
+ .filter-disclosure summary::-webkit-details-marker{display:none}
+ .filter-chevron{display:block;font:20px Arial,sans-serif;transition:transform .18s}
+ .filter-disclosure[open] .filter-chevron{transform:rotate(180deg)}
+ .filter-disclosure[data-closing="true"] .filter-chevron{transform:rotate(0)}
+ .mini-player{bottom:8px;width:calc(100% - 16px);padding:8px 10px;grid-template-columns:1fr auto;gap:0 8px}
+ .player-heading{grid-column:1;grid-row:1}#player-title{font-size:17px}
+ .player-utilities{grid-column:2;grid-row:1}.player-utilities #player-close{width:36px}
+  .player-controls{grid-column:1;grid-row:2;justify-content:flex-start}
+ .player-timeline{grid-column:2;grid-row:2;width:clamp(108px,35vw,230px);justify-self:end}
+ #player-time{font-size:11px}.has-player main{padding-bottom:145px}
+}
+@media(prefers-reduced-motion:reduce){
+ .search-input-wrap::after,.filter-chevron{transition:none}
+ .search-panel[data-searching="true"] .search-input-wrap::after,.mini-player,.share-button[data-copied="true"]{animation:none}
+}
+
+
+
+@media(prefers-reduced-motion:reduce){.player-controls button,#player-close{transition:none}}
+
+/* Expand the existing quote; keep the disclosure visually quiet. */
+.read-more{background:transparent;border-color:transparent;padding:6px 8px;color:var(--muted)}
+.read-more:hover{background:transparent;border-color:transparent;color:var(--ink);text-decoration:underline;text-underline-offset:3px}
+
+.episode-description{margin:.55rem 0 .8rem;font-size:.9rem;color:var(--muted,#555);max-width:65ch}.episode-description summary{cursor:pointer;width:fit-content}.episode-description p{line-height:1.65;margin:.5rem 0}.filters>div[hidden]{display:none}

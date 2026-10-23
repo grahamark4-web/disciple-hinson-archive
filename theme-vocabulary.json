@@ -1,0 +1,405 @@
+{
+  "anxiety": [
+    "anxiety",
+    "anxious",
+    "worry",
+    "worried"
+  ],
+  "peace": [
+    "peace",
+    "rest",
+    "restless"
+  ],
+  "suffering": [
+    "suffering",
+    "suffer",
+    "pain",
+    "affliction",
+    "hardship",
+    "trials"
+  ],
+  "grief": [
+    "grief",
+    "grieving",
+    "mourning",
+    "sorrow",
+    "lament"
+  ],
+  "hope": [
+    "hope",
+    "hopeless",
+    "despair"
+  ],
+  "prayer": [
+    "prayer",
+    "pray",
+    "praying",
+    "intercession"
+  ],
+  "faith": [
+    "faith",
+    "trust",
+    "believe",
+    "belief",
+    "unbelief",
+    "doubt"
+  ],
+  "repentance": [
+    "repentance",
+    "repent",
+    "turn from sin"
+  ],
+  "forgiveness": [
+    "forgiveness",
+    "forgive",
+    "forgiven",
+    "reconciliation",
+    "reconcile"
+  ],
+  "grace": [
+    "grace",
+    "undeserved",
+    "unmerited"
+  ],
+  "salvation": [
+    "salvation",
+    "saved",
+    "save sinners",
+    "born again",
+    "new birth",
+    "regeneration"
+  ],
+  "justification": [
+    "justification",
+    "justified",
+    "righteousness by faith"
+  ],
+  "sanctification": [
+    "sanctification",
+    "sanctified",
+    "spiritual growth",
+    "grow in holiness"
+  ],
+  "sin and temptation": [
+    "sin",
+    "sins",
+    "sinner",
+    "sinful",
+    "temptation",
+    "tempted"
+  ],
+  "holiness": [
+    "holiness",
+    "holy living",
+    "purity",
+    "pure",
+    "righteous living"
+  ],
+  "obedience": [
+    "obedience",
+    "obey",
+    "obedient",
+    "disobedience"
+  ],
+  "love": [
+    "love",
+    "loving",
+    "loved"
+  ],
+  "humility": [
+    "humility",
+    "humble",
+    "pride",
+    "proud"
+  ],
+  "wisdom": [
+    "wisdom",
+    "wise",
+    "fool",
+    "foolish"
+  ],
+  "anger": [
+    "anger",
+    "angry",
+    "wrath",
+    "bitterness"
+  ],
+  "joy": [
+    "joy",
+    "rejoice",
+    "rejoicing"
+  ],
+  "gratitude": [
+    "gratitude",
+    "grateful",
+    "thankful",
+    "thanksgiving"
+  ],
+  "contentment": [
+    "contentment",
+    "content",
+    "covet",
+    "covetous",
+    "greed"
+  ],
+  "money and generosity": [
+    "money",
+    "wealth",
+    "riches",
+    "generosity",
+    "generous",
+    "giving",
+    "possessions",
+    "stewardship"
+  ],
+  "marriage": [
+    "marriage",
+    "married",
+    "husband",
+    "wife",
+    "divorce"
+  ],
+  "parenting and family": [
+    "parenting",
+    "parents",
+    "parent",
+    "fatherhood",
+    "motherhood",
+    "family",
+    "families",
+    "raising children"
+  ],
+  "friendship": [
+    "friendship",
+    "hospitality"
+  ],
+  "church": [
+    "church",
+    "congregation",
+    "body of christ",
+    "membership"
+  ],
+  "unity": [
+    "unity",
+    "united",
+    "division",
+    "divisions"
+  ],
+  "leadership": [
+    "leadership",
+    "leaders",
+    "leader",
+    "elder",
+    "elders",
+    "pastor",
+    "pastors",
+    "deacon",
+    "deacons"
+  ],
+  "service": [
+    "service",
+    "serve",
+    "serving",
+    "servant",
+    "spiritual gifts"
+  ],
+  "worship": [
+    "worship",
+    "praise",
+    "adoration"
+  ],
+  "evangelism and missions": [
+    "evangelism",
+    "evangelize",
+    "missions",
+    "missionary",
+    "missionaries",
+    "share the gospel",
+    "proclaim the gospel",
+    "great commission"
+  ],
+  "discipleship": [
+    "discipleship",
+    "disciple",
+    "disciples",
+    "follow jesus",
+    "following jesus"
+  ],
+  "perseverance": [
+    "perseverance",
+    "persevere",
+    "endurance",
+    "endure",
+    "steadfast",
+    "faithfulness"
+  ],
+  "persecution": [
+    "persecution",
+    "persecuted",
+    "persecute"
+  ],
+  "justice and mercy": [
+    "justice",
+    "injustice",
+    "oppression",
+    "oppressed",
+    "mercy",
+    "merciful",
+    "compassion"
+  ],
+  "God's sovereignty and providence": [
+    "sovereignty",
+    "sovereign",
+    "providence",
+    "providential",
+    "god is in control"
+  ],
+  "God's faithfulness": [
+    "god is faithful",
+    "god's faithfulness",
+    "faithful god",
+    "god keeps his promises"
+  ],
+  "covenant": [
+    "covenant",
+    "covenants",
+    "new covenant",
+    "old covenant"
+  ],
+  "Jesus Christ": [
+    "jesus",
+    "christ",
+    "messiah",
+    "son of god"
+  ],
+  "cross and atonement": [
+    "cross",
+    "crucifixion",
+    "crucified",
+    "atonement",
+    "atoning",
+    "blood of christ",
+    "died for our sins"
+  ],
+  "resurrection": [
+    "resurrection",
+    "risen",
+    "raised from the dead",
+    "rise from the dead"
+  ],
+  "Holy Spirit": [
+    "holy spirit",
+    "spirit of god",
+    "spirit of christ"
+  ],
+  "Scripture": [
+    "scripture",
+    "scriptures",
+    "bible",
+    "god's word",
+    "word of god"
+  ],
+  "creation": [
+    "creation",
+    "creator",
+    "created",
+    "image of god"
+  ],
+  "judgment": [
+    "judgment",
+    "judgement",
+    "condemnation",
+    "hell"
+  ],
+  "eternal life and heaven": [
+    "eternal life",
+    "heaven",
+    "new creation",
+    "new heavens",
+    "new earth"
+  ],
+  "return of Christ": [
+    "second coming",
+    "return of christ",
+    "jesus returns",
+    "christ returns",
+    "day of the lord",
+    "last days"
+  ],
+  "kingdom of God": [
+    "kingdom of god",
+    "kingdom of heaven",
+    "king jesus",
+    "kingship"
+  ],
+  "baptism": [
+    "baptism",
+    "baptize",
+    "baptized"
+  ],
+  "Lord's Supper": [
+    "lord's supper",
+    "communion",
+    "bread and wine"
+  ],
+  "work": [
+    "workplace",
+    "vocation",
+    "employment",
+    "labor",
+    "labour"
+  ],
+  "speech": [
+    "gossip",
+    "slander",
+    "tongue",
+    "lying",
+    "truthfulness"
+  ],
+  "Trinity": [
+    "trinity",
+    "triune",
+    "father son and holy spirit"
+  ],
+  "church life": [
+    "church life",
+    "church membership",
+    "congregationalism",
+    "bylaws",
+    "church covenant",
+    "small groups"
+  ],
+  "biography and testimony": [
+    "get to know",
+    "get to know an elder",
+    "get to know a member",
+    "interview",
+    "testimony",
+    "pastoral residents",
+    "pastoral interns"
+  ],
+  "counseling": [
+    "counseling",
+    "counselling",
+    "counsel"
+  ],
+  "technology": [
+    "technology",
+    "artificial intelligence",
+    "video games",
+    "twitch",
+    "meta",
+    " ai "
+  ],
+  "conversion and assurance": [
+    "conversion",
+    "assurance",
+    "born again"
+  ],
+  "politics": [
+    "politics",
+    "political",
+    "government",
+    "israel & palestine"
+  ]
+}

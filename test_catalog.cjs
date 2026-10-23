@@ -1,0 +1,10 @@
+const fs=require('fs'),assert=require('assert/strict'),S=require('./dist/search.js');
+const data=JSON.parse(fs.readFileSync('dist/episodes.json')),themes=JSON.parse(fs.readFileSync('dist/episode-themes.json'));
+const rows=data.sermons.map(s=>({...s,themes:themes.sermons[s.id].tags,themeTerms:themes.sermons[s.id].tags.flatMap(t=>themes.aliases[t]||[])}));
+assert(rows.length>=288);assert.equal(new Set(rows.map(s=>s.id)).size,rows.length);assert(rows.every(s=>s.audio.startsWith('https://')));assert(rows.every(s=>s.url.startsWith('https://www.hinsonchurch.org/disciple-hinson-podcast/')));
+assert(rows.filter(s=>S.matches(s,'worry')).length>=4);assert(rows.some(s=>S.matches(s,'Ronnie Jones')));assert(rows.some(s=>S.matches(s,'Trinity')));assert(rows.some(s=>S.matches(s,'Adoniram Judson')));
+const speakers=S.facets(rows,{query:''}).speaker;assert(speakers.includes('Daniel Schreiner'));assert(!speakers.some(s=>s.includes(',')));const selected=rows.filter(s=>S.matches(s,'worry')&&S.filterMatches(s,{speaker:'Daniel Schreiner',year:'2023'}));assert(selected.length>=2);
+const cited=rows.find(s=>s.passages.length);assert(S.matches(cited,cited.passages[0].reference));
+assert(!fs.readFileSync('dist/interactions.js','utf8').includes('https://www.hinsonchurch.org/sermon-archive'));
+assert(fs.readFileSync('dist/app.js','utf8').includes("mobileSearch.matches?'Search':desktopPlaceholder"));
+console.log('288 unique episodes, audio URLs, topic synonyms, guests, individual speakers, Scripture citations and combined filters verified.');

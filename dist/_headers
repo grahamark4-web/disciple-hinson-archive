@@ -1,0 +1,11 @@
+/*
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  Content-Security-Policy: default-src 'self'; script-src 'self'; style-src 'self' https://use.typekit.net; font-src 'self' https://use.typekit.net; media-src https:; connect-src 'self'; img-src 'self' data:; frame-ancestors 'self' https://hinsonchurch.org https://www.hinsonchurch.org https://*.squarespace.com
+/episodes.json
+  Cache-Control: no-cache
+/episode-themes.json
+  Cache-Control: no-cache
+/podcast-links.json
+  Cache-Control: no-cache
