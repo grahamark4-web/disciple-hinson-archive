@@ -4,7 +4,7 @@
   "private": true,
   "description": "Searchable Disciple Hinson podcast archive for Cloudflare Workers",
   "scripts": {
-    "check": "node --check dist/app.js && node --check dist/interactions.js && node test_catalog.cjs && node test_worker.cjs && node test_subjects.cjs",
+    "check": "node --check dist/app.js && node --check dist/interactions.js && node test_catalog.cjs && node test_worker.cjs && node test_subjects.cjs && node test_notes.cjs",
     "refresh": "python refresh.py",
     "deploy": "npx wrangler deploy"
   }

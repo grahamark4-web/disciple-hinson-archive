@@ -1,23 +1,30 @@
 """Refresh Disciple Hinson from its Squarespace collection, independently of sermons."""
-import json,re,html,time,urllib.request,datetime,pathlib,collections
+import json,re,html,time,urllib.request,urllib.parse,datetime,pathlib,collections
 from html.parser import HTMLParser
 from zoneinfo import ZoneInfo
 ROOT=pathlib.Path(__file__).parent;CACHE=ROOT/'.cache';CACHE.mkdir(exist_ok=True)
 BASE='https://www.hinsonchurch.org';COLLECTION='/disciple-hinson-podcast'
 class Extract(HTMLParser):
- def __init__(self):super().__init__();self.audio=[];self.text=[];self.skip=0;self.paragraph=0
+ def __init__(self):super().__init__();self.audio=[];self.text=[];self.skip=0;self.paragraph=0;self.href=None;self.parts=[]
  def handle_starttag(self,t,a):
   d=dict(a)
+  if t=='a':
+   u=urllib.parse.urljoin(BASE,d.get('href',''))
+   self.href=u if urllib.parse.urlsplit(u).scheme in ('http','https','mailto','tel') and d.get('href') else None
   if t in ('style','script'):self.skip+=1
   if t in ('p','li'):self.paragraph+=1
   if 'data-asset-url' in d or 'data-url' in d:
    u=d.get('data-asset-url') or d.get('data-url')
    if u and ('.mp3' in u or 'audio' in d.get('class','')):self.audio.append({'url':u,'author':d.get('data-author',''),'title':d.get('data-title',''),'duration':d.get('data-length-in-milli-seconds','')})
  def handle_endtag(self,t):
+  if t=='a':self.href=None
   if t in ('style','script'):self.skip=max(0,self.skip-1)
   if t in ('p','li'):self.paragraph=max(0,self.paragraph-1);self.text.append('\n')
  def handle_data(self,d):
-  if not self.skip and self.paragraph:self.text.append(d)
+  if not self.skip and self.paragraph:
+   self.text.append(d)
+   text=re.sub(r'\s+',' ',d).strip()
+   if text:self.parts.append({'text':text,**({'href':self.href} if self.href else {})})
 def fetch(url,key):
  p=CACHE/(key+'.json')
  if p.exists() and time.time()-p.stat().st_mtime<300:return json.loads(p.read_text())
@@ -52,7 +59,7 @@ def main():
   e=Extract();e.feed(x.get('body',''));audio=next((a for a in e.audio if a['url'].startswith('https://')),None)
   desc=html.unescape(re.sub(r'\s+',' ',' '.join(e.text))).strip();title=html.unescape(x['title']);speaker=html.unescape(audio['author']).strip() if audio else ''
   tags=x.get('tags',[]);cats=x.get('categories',[])
-  row={'id':x['id'],'title':title,'date':datetime.datetime.fromtimestamp(x['publishOn']/1000,ZoneInfo('America/Los_Angeles')).date().isoformat(),'speaker':speaker,'description':desc,'passages':[],'books':[],'series':series(title),'url':BASE+x['fullUrl'] if x.get('fullUrl','').startswith('/') else BASE+COLLECTION+'/'+x['urlId'],'audio':audio['url'] if audio else None,'legacyAudio':False,'sourceTags':tags+cats}
+  row={'id':x['id'],'title':title,'date':datetime.datetime.fromtimestamp(x['publishOn']/1000,ZoneInfo('America/Los_Angeles')).date().isoformat(),'speaker':speaker,'description':desc,'descriptionSegments':e.parts,'passages':[],'books':[],'series':series(title),'url':BASE+x['fullUrl'] if x.get('fullUrl','').startswith('/') else BASE+COLLECTION+'/'+x['urlId'],'audio':audio['url'] if audio else None,'legacyAudio':False,'sourceTags':tags+cats}
   if not audio:missing.append({'id':x['id'],'title':title,'url':row['url']})
   rows.append(row)
  rows.sort(key=lambda x:(x['date'],x['title']),reverse=True)

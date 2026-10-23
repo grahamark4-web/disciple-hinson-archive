@@ -21,6 +21,25 @@ updateSearchPlaceholder();mobileSearch.addEventListener('change',()=>{updateSear
 const params=new URLSearchParams(location.search);params.delete('book');params.delete('series');try{$('transcripts').checked=localStorage.getItem('disciple-hinson-search-transcripts')==='on';}catch{}if(params.has('transcripts'))$('transcripts').checked=params.get('transcripts')!=='0';if(!TRANSCRIPT_SEARCH_ENABLED){$('transcripts').checked=false;params.delete('transcripts');}if(params.get('embed')==='1')document.body.classList.add('embedded');if(matchMedia('(max-width:700px)').matches)document.querySelector('.filter-disclosure').open=false;for(const id of controls)if(params.has(id))$(id).value=params.get(id);if(!['newest','oldest'].includes($('sort').value))$('sort').value='newest';
 function el(tag,text,cls){const n=document.createElement(tag);if(text!==undefined)n.textContent=text;if(cls)n.className=cls;return n;}
 function link(text,url){const a=el('a',text);a.href=url;a.target='_blank';a.rel='noopener';return a;}
+function episodeNotes(s){
+ const p=el('p');
+ const appendText=text=>{
+  const pattern=/(?:https?:\/\/|www\.)[^\s<>]+/gi;let cursor=0;
+  for(const m of text.matchAll(pattern)){
+   let url=m[0].replace(/[.,;:!?]+$/,'');
+   while(url.endsWith(')')&&(url.match(/\)/g)||[]).length>(url.match(/\(/g)||[]).length)url=url.slice(0,-1);
+   p.append(document.createTextNode(text.slice(cursor,m.index)),link(url,url.startsWith('www.')?'https://'+url:url));cursor=m.index+url.length;
+  }
+  p.append(document.createTextNode(text.slice(cursor)));
+ };
+ if(s.descriptionSegments?.length){
+  s.descriptionSegments.forEach((part,i)=>{
+   if(i)p.append(document.createTextNode(' '));
+   if(part.href&&/^(https?:|mailto:|tel:)/i.test(part.href))p.append(link(part.text,part.href));else appendText(part.text);
+  });
+ }else appendText(s.description);
+ return p;
+}
 function smallIcon(kind){
  const svg=document.createElementNS('http://www.w3.org/2000/svg','svg');svg.setAttribute('viewBox','0 0 16 16');svg.setAttribute('width','16');svg.setAttribute('height','16');svg.setAttribute('aria-hidden','true');
  const path=document.createElementNS('http://www.w3.org/2000/svg','path');path.setAttribute('fill','currentColor');path.setAttribute('d',kind==='play'?'M4 2 L13 8 L4 14 Z':kind==='close'?'M4 3 L8 7 L12 3 L13 4 L9 8 L13 12 L12 13 L8 9 L4 13 L3 12 L7 8 L3 4 Z':'M3 6 A2 2 0 1 1 3 10 A2 2 0 1 1 3 6 M8 6 A2 2 0 1 1 8 10 A2 2 0 1 1 8 6 M13 6 A2 2 0 1 1 13 10 A2 2 0 1 1 13 6');svg.append(path);return svg;
@@ -62,7 +81,7 @@ function render(animateNew=false){
   const content=el('div'),title=el('h2');const normalize=t=>t.toLowerCase().replace(/[^a-z0-9]/g,'');const parts=s.title.split('|').map(t=>t.trim());const cleanParts=parts.length>1?parts.filter(t=>!s.passages.some(p=>normalize(p.reference)===normalize(t))):parts;const titleText=el('span',cleanParts.join(' | ')||s.title,'sermon-title');title.append(highlight(titleText));content.append(title);
   const meta=el('p',undefined,'meta');const passage=el('span',undefined,'passage');if(s.passages.length){s.passages.forEach((p,i)=>{if(i)passage.append(document.createTextNode('; '));passage.append(highlight(el('span',p.reference),true));});}if(s.passages.length)meta.append(passage,document.createTextNode('  ·  '));meta.append(highlight(el('span',s.speaker||'Speaker not listed')));content.append(meta);
   content.append(highlight(el('p',SermonSearch.seriesValues(s).join(' · '),'meta')));
-  if(s.description){const description=el('details',undefined,'episode-description');description.append(el('summary','Episode notes'),el('p',s.description));content.append(description);}
+  if(s.description){const description=el('details',undefined,'episode-description');description.append(el('summary','Episode notes'),episodeNotes(s));content.append(description);}
 
   const themeQuery=SermonSearch.norm(selection.query);
   const matchedThemes=themeQuery&&!SermonSearch.parse(themeQuery)?(s.themes||[]).filter(t=>[t,...(s.themeAliases?.[t]||[])].some(term=>SermonSearch.norm(term).includes(themeQuery))):[];

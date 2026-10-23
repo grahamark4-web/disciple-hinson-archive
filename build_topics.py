@@ -20,7 +20,7 @@ for e in data['sermons']:
   tc=len(pat.findall(title));dc=len(pat.findall(description));pc=len(pat.findall(publisher))
   if tc or dc or pc:
    scores[tag]=tc*10+pc*8+min(dc,3)*2
-   evidence[tag]={'title':bool(tc),'notes':bool(dc),'publisherTags':bool(pc)}
+   evidence[tag]={'title':bool(tc),'notes':bool(dc),'publisherTags':bool(pc),'noteEvidence':[x.strip() for x in sentences(e['description']) if freq[x.strip()]<5 and pat.search(x)][:3]}
  # Keep direct subjects first; avoid filling short descriptions with numerous weak tags.
  tags=sorted(scores,key=lambda t:(-scores[t],t))[:8]
  result[e['id']]={'tags':tags,'source':'episode-metadata'}
