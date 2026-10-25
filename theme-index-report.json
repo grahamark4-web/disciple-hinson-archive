@@ -2108,8 +2108,8 @@
       "title": "221 - Covenant with Abraham",
       "themes": [
         "covenant",
-        "Scripture",
-        "Jesus Christ"
+        "Jesus Christ",
+        "Scripture"
       ],
       "evidence": {
         "covenant": {
@@ -2122,20 +2122,20 @@
             "the better we understand this covenant, the better we understand the story of scripture and how it points to jesus christ the true seed of abraham who makes us children of abraham by faith."
           ]
         },
+        "Jesus Christ": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false,
+          "noteEvidence": [
+            "the better we understand this covenant, the better we understand the story of scripture and how it points to jesus christ the true seed of abraham who makes us children of abraham by faith."
+          ]
+        },
         "Scripture": {
           "title": false,
           "notes": true,
           "publisherTags": false,
           "noteEvidence": [
             "however, this episode concisely guides us through the covenant with abraham and helps us understand god's word and his promises better.",
-            "the better we understand this covenant, the better we understand the story of scripture and how it points to jesus christ the true seed of abraham who makes us children of abraham by faith."
-          ]
-        },
-        "Jesus Christ": {
-          "title": false,
-          "notes": true,
-          "publisherTags": false,
-          "noteEvidence": [
             "the better we understand this covenant, the better we understand the story of scripture and how it points to jesus christ the true seed of abraham who makes us children of abraham by faith."
           ]
         }
