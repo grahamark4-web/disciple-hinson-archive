@@ -4939,10 +4939,16 @@
       "id": "63461ee937365b23a2277cb0",
       "title": "140 - The Necessity of Conversion and Assurance",
       "themes": [
-        "church partnerships",
-        "conversion and assurance"
+        "conversion and assurance",
+        "church partnerships"
       ],
       "evidence": {
+        "conversion and assurance": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false,
+          "noteEvidence": []
+        },
         "church partnerships": {
           "title": false,
           "notes": true,
@@ -4950,12 +4956,6 @@
           "noteEvidence": [
             "listen as mike mckinley gives the eighth session from this years 9marks conference."
           ]
-        },
-        "conversion and assurance": {
-          "title": true,
-          "notes": false,
-          "publisherTags": false,
-          "noteEvidence": []
         }
       }
     },
