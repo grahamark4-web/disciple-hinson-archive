@@ -1,8 +1,71 @@
 {
-  "episodes": 288,
-  "tagged": 288,
+  "episodes": 289,
+  "tagged": 289,
   "episodesForReview": [],
   "evidence": [
+    {
+      "id": "6ae147f4ebd89e4f143a156b",
+      "title": "272 — Get to Know: Marilyn Escher",
+      "themes": [
+        "biography and testimony",
+        "evangelism and missions",
+        "Bible translation",
+        "Scripture",
+        "cross-cultural ministry",
+        "missions strategy"
+      ],
+      "evidence": {
+        "biography and testimony": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false,
+          "noteEvidence": [
+            "in this \"get to know\" and ministry update episode, tanner sits down with marilyn escher, one of hinson's global workers serving in senegal, to hear her testimony, her call to missions, and her journey into bible translation."
+          ]
+        },
+        "evangelism and missions": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false,
+          "noteEvidence": [
+            "in this \"get to know\" and ministry update episode, tanner sits down with marilyn escher, one of hinson's global workers serving in senegal, to hear her testimony, her call to missions, and her journey into bible translation.",
+            "listen as she shares the ups and downs of ministry and offers encouragement to hinson and to aspiring missionaries."
+          ]
+        },
+        "Bible translation": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false,
+          "noteEvidence": [
+            "in this \"get to know\" and ministry update episode, tanner sits down with marilyn escher, one of hinson's global workers serving in senegal, to hear her testimony, her call to missions, and her journey into bible translation."
+          ]
+        },
+        "Scripture": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false,
+          "noteEvidence": [
+            "in this \"get to know\" and ministry update episode, tanner sits down with marilyn escher, one of hinson's global workers serving in senegal, to hear her testimony, her call to missions, and her journey into bible translation."
+          ]
+        },
+        "cross-cultural ministry": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false,
+          "noteEvidence": [
+            "in this \"get to know\" and ministry update episode, tanner sits down with marilyn escher, one of hinson's global workers serving in senegal, to hear her testimony, her call to missions, and her journey into bible translation."
+          ]
+        },
+        "missions strategy": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false,
+          "noteEvidence": [
+            "in this \"get to know\" and ministry update episode, tanner sits down with marilyn escher, one of hinson's global workers serving in senegal, to hear her testimony, her call to missions, and her journey into bible translation."
+          ]
+        }
+      }
+    },
     {
       "id": "6acecaaaa084835195bcff87",
       "title": "271 — On Gospel Infrastructure",
@@ -4939,16 +5002,10 @@
       "id": "63461ee937365b23a2277cb0",
       "title": "140 - The Necessity of Conversion and Assurance",
       "themes": [
-        "conversion and assurance",
-        "church partnerships"
+        "church partnerships",
+        "conversion and assurance"
       ],
       "evidence": {
-        "conversion and assurance": {
-          "title": true,
-          "notes": false,
-          "publisherTags": false,
-          "noteEvidence": []
-        },
         "church partnerships": {
           "title": false,
           "notes": true,
@@ -4956,6 +5013,12 @@
           "noteEvidence": [
             "listen as mike mckinley gives the eighth session from this years 9marks conference."
           ]
+        },
+        "conversion and assurance": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false,
+          "noteEvidence": []
         }
       }
     },
