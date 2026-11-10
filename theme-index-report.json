@@ -2171,8 +2171,8 @@
       "title": "221 - Covenant with Abraham",
       "themes": [
         "covenant",
-        "Scripture",
-        "Jesus Christ"
+        "Jesus Christ",
+        "Scripture"
       ],
       "evidence": {
         "covenant": {
@@ -2185,20 +2185,20 @@
             "the better we understand this covenant, the better we understand the story of scripture and how it points to jesus christ the true seed of abraham who makes us children of abraham by faith."
           ]
         },
+        "Jesus Christ": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false,
+          "noteEvidence": [
+            "the better we understand this covenant, the better we understand the story of scripture and how it points to jesus christ the true seed of abraham who makes us children of abraham by faith."
+          ]
+        },
         "Scripture": {
           "title": false,
           "notes": true,
           "publisherTags": false,
           "noteEvidence": [
             "however, this episode concisely guides us through the covenant with abraham and helps us understand god's word and his promises better.",
-            "the better we understand this covenant, the better we understand the story of scripture and how it points to jesus christ the true seed of abraham who makes us children of abraham by faith."
-          ]
-        },
-        "Jesus Christ": {
-          "title": false,
-          "notes": true,
-          "publisherTags": false,
-          "noteEvidence": [
             "the better we understand this covenant, the better we understand the story of scripture and how it points to jesus christ the true seed of abraham who makes us children of abraham by faith."
           ]
         }
@@ -5002,10 +5002,16 @@
       "id": "63461ee937365b23a2277cb0",
       "title": "140 - The Necessity of Conversion and Assurance",
       "themes": [
-        "church partnerships",
-        "conversion and assurance"
+        "conversion and assurance",
+        "church partnerships"
       ],
       "evidence": {
+        "conversion and assurance": {
+          "title": true,
+          "notes": false,
+          "publisherTags": false,
+          "noteEvidence": []
+        },
         "church partnerships": {
           "title": false,
           "notes": true,
@@ -5013,12 +5019,6 @@
           "noteEvidence": [
             "listen as mike mckinley gives the eighth session from this years 9marks conference."
           ]
-        },
-        "conversion and assurance": {
-          "title": true,
-          "notes": false,
-          "publisherTags": false,
-          "noteEvidence": []
         }
       }
     },
