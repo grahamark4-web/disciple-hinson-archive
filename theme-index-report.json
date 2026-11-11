@@ -1,8 +1,35 @@
 {
-  "episodes": 289,
-  "tagged": 289,
+  "episodes": 290,
+  "tagged": 290,
   "episodesForReview": [],
   "evidence": [
+    {
+      "id": "6af41761fbc99c0681de2893",
+      "title": "273 — On The Wolof Bible Translation",
+      "themes": [
+        "Scripture",
+        "Bible translation"
+      ],
+      "evidence": {
+        "Scripture": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false,
+          "noteEvidence": [
+            "in this special episode, tanner and brandon roark sit down with marilyn escher, one of hinson's global workers serving in senegal, to talk about the wolof bible translation.",
+            "listen as they explore all that goes into bringing the scriptures into a new language."
+          ]
+        },
+        "Bible translation": {
+          "title": true,
+          "notes": true,
+          "publisherTags": false,
+          "noteEvidence": [
+            "in this special episode, tanner and brandon roark sit down with marilyn escher, one of hinson's global workers serving in senegal, to talk about the wolof bible translation."
+          ]
+        }
+      }
+    },
     {
       "id": "6ae147f4ebd89e4f143a156b",
       "title": "272 — Get to Know: Marilyn Escher",
@@ -2171,8 +2198,8 @@
       "title": "221 - Covenant with Abraham",
       "themes": [
         "covenant",
-        "Jesus Christ",
-        "Scripture"
+        "Scripture",
+        "Jesus Christ"
       ],
       "evidence": {
         "covenant": {
@@ -2185,20 +2212,20 @@
             "the better we understand this covenant, the better we understand the story of scripture and how it points to jesus christ the true seed of abraham who makes us children of abraham by faith."
           ]
         },
-        "Jesus Christ": {
-          "title": false,
-          "notes": true,
-          "publisherTags": false,
-          "noteEvidence": [
-            "the better we understand this covenant, the better we understand the story of scripture and how it points to jesus christ the true seed of abraham who makes us children of abraham by faith."
-          ]
-        },
         "Scripture": {
           "title": false,
           "notes": true,
           "publisherTags": false,
           "noteEvidence": [
             "however, this episode concisely guides us through the covenant with abraham and helps us understand god's word and his promises better.",
+            "the better we understand this covenant, the better we understand the story of scripture and how it points to jesus christ the true seed of abraham who makes us children of abraham by faith."
+          ]
+        },
+        "Jesus Christ": {
+          "title": false,
+          "notes": true,
+          "publisherTags": false,
+          "noteEvidence": [
             "the better we understand this covenant, the better we understand the story of scripture and how it points to jesus christ the true seed of abraham who makes us children of abraham by faith."
           ]
         }
