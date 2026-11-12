@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T18:02:00.160853+00:00",
+  "updatedAt": "2026-11-12T18:34:42.439400+00:00",
   "links": {
     "6acecaaaa084835195bcff87": {
       "apple": "https://podcasts.apple.com/us/podcast/271-on-gospel-infrastructure/id1451438119?i=1000796345703&uo=4",
@@ -316,6 +316,10 @@
     "6ae147f4ebd89e4f143a156b": {
       "apple": "https://podcasts.apple.com/us/podcast/272-get-to-know-marilyn-escher/id1451438119?i=1000798559852&uo=4",
       "spotify": "https://open.spotify.com/episode/5Yr8VORrJWtXOAIHkEwPYC"
+    },
+    "6af41761fbc99c0681de2893": {
+      "apple": "https://podcasts.apple.com/us/podcast/273-on-the-wolof-bible-translation/id1451438119?i=1000801267422&uo=4",
+      "spotify": "https://open.spotify.com/episode/2au5o3PWeuG2pmGVNyN9dM"
     }
   }
 }
